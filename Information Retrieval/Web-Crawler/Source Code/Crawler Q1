@@ -1,0 +1,149 @@
+from bs4 import BeautifulSoup
+
+from collections import deque
+import requests
+import re
+import sys
+import codecs
+import urllib2
+reload(sys)
+from urlparse import urljoin
+sys.setdefaultencoding('utf-8')
+import time
+
+seedurl = "https://en.wikipedia.org/wiki/Sustainable_energy"
+website = seedurl
+frontier=[]
+frontier.append(seedurl)
+visited_List = []
+countdepth = [0] * 5
+#depth = 1
+depth = 2
+countdepth[0] = 1
+regex = re.compile(r'^/wiki/', re.IGNORECASE)
+# Create queue
+queue = []
+queue.append(seedurl)
+visited_List.append(seedurl)
+frontier.append(seedurl)
+
+f = open('CrawledUrls.txt', 'w')
+
+
+def main():
+	
+	crawl(seedurl, depth)
+
+	print len(visited_List)
+	print len(frontier)
+	print "Visited list urls----"
+	for m in visited_List:
+		print m
+
+	with open("CrawledUrls.txt", "a") as f: 
+		print f
+		for list in visited_List:
+			f.write("\n" + str(list))
+
+	f.close()	
+
+
+
+def crawl(url, depth):
+
+	if url == seedurl:
+			depth = 2
+			queue.pop(0)
+
+	elif depth > 5 or len(visited_List) >= 1000:
+		"Depth is more than 5 or visited List max reached"
+		return
+	
+	print "inside Crawl function url ------" + url 
+	print "At depth ----" + str(depth)
+	time.sleep(1)
+
+	r  = requests.get(url)
+	if r.status_code == 200:
+		data = r.text
+		soup = BeautifulSoup(data)
+
+		for link in soup.find_all("a"):
+			if (regex.match(str(link.get("href")))):
+				url = link.get('href')
+				if (":" not in url) and ("#" not in url):	
+					completeUrl = urljoin("http://en.wikipedia.org", url)
+
+					if len(visited_List) < 1000:
+
+						if (completeUrl not in visited_List) and (completeUrl not in queue):
+							
+							
+							queue.append(completeUrl)
+							frontier.append(completeUrl)
+							print " Fetched url and adding to queue ----" + completeUrl
+							print "Fetching urls at depth and adding to queue ----" + str(depth)
+							print depth
+							
+							countdepth[depth-1] = countdepth[depth - 1] + 1
+
+					else:
+						break
+
+		print "Number of urls at depth " +  str(depth) +"---> " + str(countdepth[depth-1])
+		while countdepth[depth-1] != 0:
+			
+			if len(visited_List) < 1000 and depth <=5 :
+
+				nextUrl = queue.pop(0)
+				print "Now crawling URL ----" + nextUrl
+				if nextUrl not in visited_List:
+					visited_List.append(nextUrl)
+					internalCrawler(nextUrl,depth+1)
+				countdepth[depth-1] = countdepth[depth-1] - 1
+			else:
+				break
+
+		if countdepth[depth-1] == 0:
+			depth = depth + 1
+			print "Now depth increases ---" + str(depth)
+			url = queue.pop()
+			print "New url to crawl --- " + url
+			if url not in visited_List:
+				visited_List.append(url)
+				crawl(url, depth)	
+	else:
+		return			
+
+
+def internalCrawler(nextUrl, d):
+	print "Inside internal URL---" + nextUrl
+	time.sleep(1)
+	r1  = requests.get(nextUrl)
+	if r1.status_code ==  requests.codes.ok:
+		dataInternal = r1.text
+		soup1 = BeautifulSoup(dataInternal)
+		for link1 in soup1.find_all("a"):
+			#count the number of urls visited
+			print "Fetching links in internal crawler"	
+			url1 = link1.get('href')
+					
+			if (regex.match(str(url1))):
+				
+				if (":" not in url1) and ("#" not in url1):
+						
+					completeUrl1 = urljoin("http://en.wikipedia.org", url1)
+					if len(visited_List) < 1000:
+						if (completeUrl1 not in visited_List) and (completeUrl1 not in queue):
+							print "Inside internal crawler --- fetched url --" + completeUrl1
+							queue.append(completeUrl1)
+							frontier.append(completeUrl1)			
+							countdepth[d-1] = countdepth[d-1] + 1
+
+					else:
+						break
+	else:
+		return					
+
+if __name__== '__main__':
+    main()						

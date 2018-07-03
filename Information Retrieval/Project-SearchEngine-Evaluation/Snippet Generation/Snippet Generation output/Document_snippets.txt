@@ -1,0 +1,1152 @@
+
+Query :- what articles exist which deal with tss time sharing system  an  operating system for ibm computers
+
+Document:- 1410 Snippet - 
+...<b>sharing</b> <b>system</b> <b>tss</b> the input process is assumed to be stationary and to be defined by the interarrival <b>time</b> distribution ...
+
+Document:- 1605 Snippet - 
+...<b>time</b> <b>sharing</b> and batch processing the effectiveness for program development of the mit compatible <b>time</b> <b>sharing</b> <b>system</b> ctss was compared ...
+
+Document:- 2054 Snippet - 
+...recognition <b>time</b> <b>sharing</b> remote access voice input speech input telephone inputoutput acoustic signal spoken word input talking to <b>computers</b> man ...
+
+Document:- 1827 Snippet - 
+...in a <b>time</b> <b>sharing</b> <b>system</b> a software measurement facility which is part of a general purpose <b>time</b> <b>sharing</b> <b>system</b> is ...
+
+Document:- 2535 Snippet - 
+...the performance of a <b>time</b> shared computer communications <b>system</b> it is concluded that while for certain values of <b>system</b> parameters ...
+
+
+Query :- i am interested in articles written either by prieve or udo pooch    prieve  b   pooch  u
+
+Document:- 3078 Snippet - 
+...1978 chattergy r <b>pooch</b> u computer aided algebra symbol manipulation markov process reliability redundant structures on line computer system 3 ...
+
+Document:- 2434 Snippet - 
+...selecting the working set parameter cacm october 1973 <b>prieve</b> b g working set model paging program behavior program modeling 4 ...
+
+Document:- 2863 Snippet - 
+...b g fabry r s demand paging performance measurement multilevel memory systems virtual memory working set page replacement algorithms optimal ...
+
+Document:- 616 Snippet - 
+...report will be read a with avid interest by programming language designers and implementors and all those <b>interested</b> in developing ...
+
+Document:- 3129 Snippet - 
+...allocation for serial files a computer system uses several serial files the files reside on a direct access storage device ...
+
+
+Query :- intermediate languages used in construction of multi targeted compilers tcoll
+
+Document:- 1154 Snippet - 
+...the finite automata or the unrestricted turing machines <b>intermediate</b> machines can be created by adjoining on infinite state memory to ...
+
+Document:- 3130 Snippet - 
+...science undergraduate programs is presented in terms of elementary level topics and courses and <b>intermediate</b> level courses elective courses used ...
+
+Document:- 637 Snippet - 
+...by an existing neliac compiler this experience has shown there is no inherent difficulty in building <b>compilers</b> with <b>compilers</b> indeed ...
+
+Document:- 3115 Snippet - 
+...binary matrices were produced by mapping the <b>intermediate</b> vectors to the matrices the mapping has application to the vernam encipherment ...
+
+Document:- 1387 Snippet - 
+...the solution of large systems of equation due to the explosive growth in the <b>intermediate</b> equations and the hazards which ...
+
+
+Query :- im interested in mechanisms for communicating between disjoint processes   possibly  but not exclusively  in a distributed environment   i would  rather see descriptions of complete mechanisms  with or without implementations   as opposed to theoretical work on the abstract problem   remote procedure  calls and message passing are examples of my interests
+
+Document:- 3128 Snippet - 
+...in the <b>processes</b> a new synchronization mechanism is proposed using <b>abstract</b> objects called eventcounts and sequencers that allows <b>processes</b> to ...
+
+Document:- 2931 Snippet - 
+...of <b>processes</b> the definition of the precise meaning of a program then requires us to explain what are the objects ...
+
+Document:- 1135 Snippet - 
+...instead of using <b>procedure</b> <b>descriptions</b> which are one to one translations of flowcharts here an invariant pattern of <b>procedure</b> is ...
+
+Document:- 2342 Snippet - 
+...between <b>communicating</b> parallel <b>processes</b> various kinds of interference between <b>communicating</b> parallel <b>processes</b> have been examined by dijkstra knuth and others ...
+
+Document:- 2377 Snippet - 
+...processor <b>mechanisms</b> for implementing these rings of protection the <b>mechanisms</b> for implementing these rings of protection the <b>mechanisms</b> allow cross ...
+
+
+Query :- id like papers on design and implementation of editing interfaces   window managers  command interpreters  etc   the essential issues are  human interface design  with views on improvements to user efficiency   effectiveness and satisfaction
+
+Document:- 2035 Snippet - 
+...<b>editing</b> on line <b>efficiency</b> on line environment scroll <b>editing</b> small machine system tape filing tape oriented system text <b>editing</b> 3 ...
+
+Document:- 1829 Snippet - 
+...from the <b>human</b> <b>user</b> it also will respond to commands from a <b>user</b> program through a similar <b>interface</b> where routine ...
+
+Document:- 1978 Snippet - 
+...and <b>design</b> considerations for interactive routines furthermore an <b>implementation</b> of an on line least squares data fitting program peg is ...
+
+Document:- 1671 Snippet - 
+...the <b>design</b> and <b>implementation</b> of a system to alleviate the problem of rule evaluation for the linguist in the area ...
+
+Document:- 2299 Snippet - 
+...philosophy for developing a sophisticated utility program is illustrated by the actual <b>design</b> and <b>implementation</b> of a text editor a ...
+
+
+Query :- interested in articles on robotics  motion planning particularly the  geometric and combinatorial aspects   we are not interested in the  dynamics of arm motion
+
+Document:- 2828 Snippet - 
+...<b>geometric</b> models for visible surface algorithms the <b>geometric</b> structure inherent in the definition of the shapes of three dimensional objects ...
+
+Document:- 695 Snippet - 
+...<b>motion</b> and disk rotation are discussed applications of disk usage are discussed separately for problem programs and for systems programs ...
+
+Document:- 1543 Snippet - 
+...to illustrate the techniques involved a digital computer has been used to derive the equations of <b>motion</b> of a point ...
+
+Document:- 2826 Snippet - 
+...<b>dynamics</b> in key frame animation a significant increase in the capability for controlling <b>motion</b> <b>dynamics</b> in key frame animation is ...
+
+Document:- 1365 Snippet - 
+...the coefficients of equations in keplerian <b>motion</b> these types of analysis which arose in the solution of specific practical problems ...
+
+
+Query :- i am interested in distributed algorithms   concurrent programs in  which processes communicate and synchronize by using message passing   areas of particular interest include fault tolerance and techniques  for understanding the correctness of these algorithms
+
+Document:- 3043 Snippet - 
+...<b>processes</b> a <b>concurrent</b> programming concept a language concept for <b>concurrent</b> <b>processes</b> without common variables is introduced these <b>processes</b> <b>communicate</b> and ...
+
+Document:- 3128 Snippet - 
+...with eventcounts and sequencers synchronization of <b>concurrent</b> <b>processes</b> requires controlling the relative ordering of events in the <b>processes</b> a new ...
+
+Document:- 2342 Snippet - 
+...gilbert p chandler w j <b>concurrent</b> programming control cooperating <b>processes</b> formal <b>programs</b> interference mutual exclusion operating systems parallel <b>processes</b> 4 ...
+
+Document:- 2865 Snippet - 
+...cacm may 1976 owicki s gries d structured multiprogramming <b>correctness</b> proofs program verification <b>concurrent</b> <b>processes</b> synchronization mutual exclusion deadlock 4 ...
+
+Document:- 2912 Snippet - 
+...modify the data but <b>concurrent</b> reading and writing is permitted two general theorems are proved and some <b>algorithms</b> are presented ...
+
+
+Query :- addressing schemes for resources in networks resource addressing in  network operating systems
+
+Document:- 2625 Snippet - 
+...based <b>addressing</b> various <b>addressing</b> <b>schemes</b> making use of segment tables are examined the inadequacies of these <b>schemes</b> when dealing with ...
+
+Document:- 3032 Snippet - 
+...all nodes of a <b>network</b> algorithms for accomplishing this delivery through a store and forward packet switching computer <b>network</b> include ...
+
+Document:- 2541 Snippet - 
+...<b>systems</b> separation of the scheduling from the maintenance functions in <b>resource</b> allocation this separation enables incorporation of new scheduling algorithms ...
+
+Document:- 2951 Snippet - 
+...arpa <b>network</b> <b>systems</b> studied in detail to describe and predict the response time for <b>network</b> time sharing <b>systems</b> as it ...
+
+Document:- 2358 Snippet - 
+...<b>systems</b> has grown the need to share information among system users has become increasingly apparent many contemporary <b>systems</b> permit some ...
+
+
+Query :- security considerations in local networks  network operating systems   and distributed systems
+
+Document:- 3076 Snippet - 
+...r electronic funds transfer <b>systems</b> social impacts of computing privacy social choice computer <b>networks</b> <b>network</b> reliability <b>security</b> social values 2 ...
+
+Document:- 1745 Snippet - 
+...<b>networks</b> information <b>systems</b> computing and free enterprise computing economics computer installation management government regulation communications services <b>distributed</b> data base program ...
+
+Document:- 2372 Snippet - 
+...w l morgan h l <b>security</b> privacy access control confidentiality <b>operating</b> <b>systems</b> access management data banks management information <b>systems</b> 3 ...
+
+Document:- 2046 Snippet - 
+...organization hierarchies of data <b>networks</b> of data relations derivability redundancy consistency composition join retrieval language predicate calculus <b>security</b> data integrity ...
+
+Document:- 2621 Snippet - 
+...way ciphers derived from sannon codes cacm august 1974 purdy g b <b>operating</b> <b>systems</b> time sharing <b>systems</b> <b>security</b> cryptography 4 ...
+
+
+Query :- parallel languages languages for parallel computation
+
+Document:- 2785 Snippet - 
+...lawrie d h layman t baer d randal j m glypnir illiac iv programming language <b>parallel</b> <b>computation</b> <b>parallel</b> architecture 4 ...
+
+Document:- 2266 Snippet - 
+...all zeros of a polynomial with only real zeros the algorithm which is conceptually suitable for <b>parallel</b> <b>computation</b> determines its ...
+
+Document:- 3059 Snippet - 
+...for <b>parallel</b> processing within programs application to cpu io and io io overlap approximate queueing models for internal <b>parallel</b> processing ...
+
+Document:- 2851 Snippet - 
+...programs two formal models for <b>parallel</b> <b>computation</b> are presented an abstract conceptual model and a <b>parallel</b> program model the former ...
+
+Document:- 3075 Snippet - 
+...sorting algorithms a <b>parallel</b> bucket sort algorithm is presented that requires time olog n and the use of n processors ...
+
+
+Query :- setl  very high level languages
+
+Document:- 2699 Snippet - 
+...of very <b>high</b> <b>level</b> <b>setl</b> is a set theoretically oriented language of very <b>high</b> <b>level</b> whose repertoire of semantic objects ...
+
+Document:- 2906 Snippet - 
+...very <b>high</b> <b>level</b> <b>languages</b> have been increasingly explored as a solution to this problem the business definition language bdl is ...
+
+Document:- 2717 Snippet - 
+...<b>level</b> translation definition language for data conversion this paper describes a <b>high</b> <b>level</b> and nonprocedural translation definition language convert which ...
+
+Document:- 724 Snippet - 
+...principal job satisfactions relate to the nature of their work and mostfind their jobs offer <b>high</b> <b>level</b> of professional interest ...
+
+Document:- 1923 Snippet - 
+...an approach to system interfaces for <b>high</b> <b>level</b> <b>languages</b> using basic inputoutput support facilities is described it is shown that ...
+
+
+Query :- portable operating systems
+
+Document:- 3127 Snippet - 
+...a <b>portable</b> real time <b>operating</b> system thoth isa real time <b>operating</b> system which is designed to be <b>portable</b> over a ...
+
+Document:- 2246 Snippet - 
+...of language for <b>portable</b> software an increasing amount of software is being implemented in a <b>portable</b> form a popular way ...
+
+Document:- 1930 Snippet - 
+...<b>portable</b> random number generator extremely <b>portable</b> subroutines are sometimes needed for which moderate quality and efficiency suffice typically this occurs ...
+
+Document:- 3068 Snippet - 
+...a precise definition of data security is developed here in terms of a general model for <b>operating</b> <b>systems</b> this model ...
+
+Document:- 3196 Snippet - 
+...the lower case is preferred the reactive typewriter should be <b>portable</b> the reactive typewriter should operate over any commercially used ...
+
+
+Query :- code optimization for space efficiency
+
+Document:- 1947 Snippet - 
+...flow analysis dominance <b>efficiency</b> fortran graph theory loop structure machine instructions object <b>code</b> <b>optimization</b> redundancy elimination register assignment system360 4 ...
+
+Document:- 1886 Snippet - 
+...1969 breuer m a factorization algorithms <b>code</b> <b>optimization</b> sequencing of operations detection of common subexpressions factorization of boolean expressions 4 ...
+
+Document:- 2944 Snippet - 
+...find actions that cancel when the <b>code</b> is executed and those that can be grouped to achieve improved <b>efficiency</b> cacm ...
+
+Document:- 2897 Snippet - 
+...<b>code</b> more elaborate optimizations can further improve the object <b>code</b> for most contexts of the concatenate statement the <b>code</b> produced ...
+
+Document:- 2253 Snippet - 
+...program <b>optimization</b> by transforming the original algorithm rather than the machine <b>code</b> the goal is to automatically generate <b>code</b> for ...
+
+
+Query :- find all discussions of optimal implementations of sort algorithms for  database management applications
+
+Document:- 3164 Snippet - 
+...implementation in which there are constraints on the permissible sequences of actions two pad <b>algorithms</b> are presented one uses a ...
+
+Document:- 2716 Snippet - 
+...chang p relational <b>database</b> <b>database</b> optimization inverted file automatic programming query language data manipulation language very high level language 3 ...
+
+Document:- 3075 Snippet - 
+...<b>algorithms</b> a parallel bucket <b>sort</b> algorithm is presented that requires time olog n and the use of n processors the ...
+
+Document:- 2146 Snippet - 
+...<b>algorithms</b> with more straightforward logic are presented of the simple dispersion <b>algorithms</b> discussed the horizontal is best it does approximately ...
+
+Document:- 2679 Snippet - 
+...sorting efficiency sorting performance tests quicksort quickersort qsort shellsort stringsort treesort3 utility <b>sort</b> algorithm general purpose <b>sort</b> algorithm sorting algorithm ...
+
+
+Query :- find all discussions of horizontal microcode optimization with special  emphasis on optimization of loops and global optimization
+
+Document:- 3125 Snippet - 
+...<b>optimization</b> by suppression of partial redundancies the elimination of redundant computations and the moving of invariant computations out of <b>loops</b> ...
+
+Document:- 2701 Snippet - 
+...flow analysis data flow code <b>optimization</b> common subexpression elimination live dead analysis information propagation flow graph reducibility go to less ...
+
+Document:- 2195 Snippet - 
+...line detection edge detection optimal detection heuristic methods <b>global</b> recognition parallel processing dynamic programming interaction graph secondary <b>optimization</b> problem 3 ...
+
+Document:- 2923 Snippet - 
+...flow information to reflect program changes and derives new <b>global</b> information helpful in solving many familiar <b>global</b> flow analysis problems ...
+
+Document:- 2944 Snippet - 
+...efficiency cacm july 1977 barth j m garbage collection <b>global</b> flow analysis list processing <b>optimization</b> reference counts storage management 3 ...
+
+
+Query :- find all descriptions of file handling in operating systems based on  multiple processes and message passing
+
+Document:- 3141 Snippet - 
+...n log n rather than on2 cacm may 1979 chang e roberts r decentralized algorithms distributed <b>systems</b> <b>operating</b> <b>systems</b> 4 ...
+
+Document:- 2378 Snippet - 
+...system <b>based</b> on the concept of a supervisory computer an <b>operating</b> system which is organized as a small supervisor and ...
+
+Document:- 1854 Snippet - 
+...<b>operating</b> <b>systems</b> which are prime examples of programs with concurrent activities the scheme includes a set of basic instructions for ...
+
+Document:- 2080 Snippet - 
+...p b multiprogramming <b>operating</b> <b>systems</b> parallel <b>processes</b> process concept process communication <b>message</b> buffering process hierarchy process creation process removal 4 ...
+
+Document:- 1135 Snippet - 
+...a structure <b>based</b> on identifying and incorporating into a compiler the aspects common to all <b>processes</b> of such class permits ...
+
+
+Query :- optimization of intermediate and machine code
+
+Document:- 1223 Snippet - 
+...<b>code</b> a three pass compiler with the following properties is briefly described the last two passes scan an <b>intermediate</b> language ...
+
+Document:- 1658 Snippet - 
+...time and storage requirements of several of the algorithms are compared over several test problems of small and <b>intermediate</b> size ...
+
+Document:- 1947 Snippet - 
+...flow analysis dominance efficiency fortran graph theory loop structure <b>machine</b> instructions object <b>code</b> <b>optimization</b> redundancy elimination register assignment system360 4 ...
+
+Document:- 2253 Snippet - 
+...program <b>optimization</b> by transforming the original algorithm rather than the <b>machine</b> <b>code</b> the goal is to automatically generate <b>code</b> for ...
+
+Document:- 3080 Snippet - 
+...primary use of the system is as a post <b>optimization</b> step in <b>code</b> generation the low level language programs need ...
+
+
+Query :- languages and compilers for parallel processors  especially highly  horizontal microcoded machines code compaction
+
+Document:- 2175 Snippet - 
+...which can be executed in <b>parallel</b> exceeds the number of available <b>processors</b> then execution of some of these subexpressions must ...
+
+Document:- 2714 Snippet - 
+...<b>processors</b> working synchronously the paper presents an algorithm for merging a and b with the p <b>parallel</b> <b>processors</b> which requires ...
+
+Document:- 1811 Snippet - 
+...the other <b>processors</b> communication between cooperating <b>processors</b> is by means of data in storage shared by all <b>processors</b> a program ...
+
+Document:- 3075 Snippet - 
+...algorithms a <b>parallel</b> bucket sort algorithm is presented that requires time olog n and the use of n <b>processors</b> the ...
+
+Document:- 2570 Snippet - 
+...schedules for <b>parallel</b> processing systems the problem of scheduling two or more <b>processors</b> to minimize the execution time of a ...
+
+
+Query :- parallel algorithms
+
+Document:- 2973 Snippet - 
+...kung h t <b>parallel</b> computer <b>parallel</b> sorting <b>parallel</b> merge routing and comparison steps perfect shuffle processor in terconnection pattern 4 ...
+
+Document:- 3075 Snippet - 
+...sorting <b>algorithms</b> a <b>parallel</b> bucket sort algorithm is presented that requires time olog n and the use of n processors ...
+
+Document:- 2289 Snippet - 
+...graph theory cellular logic in memory arrays <b>parallel</b> processing special purpose computers <b>algorithms</b> for distance and spanning tree problems 5 ...
+
+Document:- 2266 Snippet - 
+...cacm november 1972 patrick m l <b>parallel</b> numerical <b>algorithms</b> real polynomials real zeros newtons method starting values guaranteed convergence 5 ...
+
+Document:- 2838 Snippet - 
+...garbage collection storage reclamation list processing lisp time sharing multiprocessing <b>parallel</b> processing real time data structures analysis of <b>algorithms</b> 3 ...
+
+
+Query :- graph theoretic algorithms applicable to sparse matrices
+
+Document:- 2695 Snippet - 
+...cacm january 1974 gibbs n e poole w g jr tridiagonal matrix permutation algorithm eigenvalues <b>graph</b> bandwidth <b>sparse</b> matrix 5 ...
+
+Document:- 2986 Snippet - 
+...<b>sparse</b> relation boolean matrix directed <b>graph</b> wirth weber precedence relation linear precedence function slr grammar t canonical precedence relation 4 ...
+
+Document:- 2769 Snippet - 
+...boolean matrix the algorithm is similar to warshalls although it executes faster for <b>sparse</b> <b>matrices</b> on most computers particularly in ...
+
+Document:- 2524 Snippet - 
+...satisfied by metrics and by <b>graph</b> <b>theoretic</b> concepts some empirical results are presented which compare the efficiency of the methods ...
+
+Document:- 1563 Snippet - 
+...tour is generalized and applied to the problem of finding a hamilton path in a <b>graph</b> a <b>graph</b> <b>theoretic</b> justification ...
+
+
+Query :- computational complexity  intractability  class complete reductions   algorithms and efficiency
+
+Document:- 3018 Snippet - 
+...t keyword conflicts intersection graphs node clique cover edge clique cover <b>computational</b> <b>complexity</b> np <b>complete</b> problems polynomial time heuristics 4 ...
+
+Document:- 2702 Snippet - 
+...h b iii szymanski t g ullman j d <b>computational</b> <b>complexity</b> context free grammars parsing lrk grammars np <b>complete</b> problems ...
+
+Document:- 2110 Snippet - 
+...studied by griffiths and petrick cacm february 1970 earley j syntax analysis parsing context free grammar compilers <b>computational</b> <b>complexity</b> 4 ...
+
+Document:- 2337 Snippet - 
+...with fewest comparisons is proved optimal with this technique cacm june 1972 pohl i sorting <b>computational</b> <b>complexity</b> <b>computational</b> combinatorics 5 ...
+
+Document:- 2997 Snippet - 
+...hong s j <b>computational</b> <b>complexity</b> convex hull optimal <b>algorithms</b> planar set of poin ts spatial set of poin ts 4 ...
+
+
+Query :- i am interested in hidden line and hidden surface algorithms for  cylinders  toroids  spheres  and cones   this is a rather specialized  topic in computer graphics
+
+Document:- 2004 Snippet - 
+...september 1970 bouknight w j half tone <b>computer</b> <b>graphics</b> <b>line</b> scan image processing <b>hidden</b> <b>surface</b> polygonal <b>surface</b> structure presentations 4 ...
+
+Document:- 2692 Snippet - 
+...for subsequent <b>hidden</b> <b>surface</b> computations cacm january 1974 sutherland i e hodgman g w <b>computer</b> <b>graphics</b> <b>hidden</b> <b>surface</b> clipping 5 ...
+
+Document:- 2678 Snippet - 
+...1974 wright t <b>hidden</b> <b>line</b> problem <b>computer</b> <b>graphics</b> contour <b>surface</b> 3 65 4 41 8 2 ca740305 jb january 18 ...
+
+Document:- 2913 Snippet - 
+...examples of its effectiveness cacm november 1977 crow f c aliasing <b>computer</b> <b>graphics</b> convolutional filtering <b>hidden</b> <b>surface</b> removal sampling 8 ...
+
+Document:- 2751 Snippet - 
+...the object which also determines the <b>hidden</b> <b>surface</b> algorithm the various methods of object modeling shading and <b>hidden</b> <b>surface</b> removal ...
+
+
+Query :- distributed computing structures and algorithms
+
+Document:- 3148 Snippet - 
+...programming for <b>distributed</b> <b>computing</b> programming for <b>distributed</b> and other loosely coupled systems is a problem of growing interest this paper ...
+
+Document:- 2849 Snippet - 
+...metcalfe r m boggs d r computer networks packet switching multiprocessing <b>distributed</b> control <b>distributed</b> <b>computing</b> broadcast communication statistical arbitration 3 ...
+
+Document:- 1745 Snippet - 
+...networks information systems <b>computing</b> and free enterprise <b>computing</b> economics computer installation management government regulation communications services <b>distributed</b> data base program ...
+
+Document:- 3137 Snippet - 
+...1979 bucci g streeter d <b>distributed</b> processing system design cost minimization <b>distributed</b> database interactive <b>computing</b> economic modeling transaction processing 4 ...
+
+Document:- 2406 Snippet - 
+...most data definition languages concentrate on the declaration of logical data <b>structures</b> with little concern for how these <b>structures</b> are ...
+
+
+Query :- applied stochastic processes
+
+Document:- 1410 Snippet - 
+...optimization of time shared system performance requires the description of the <b>stochastic</b> <b>processes</b> governing the user inputs and the program ...
+
+Document:- 1194 Snippet - 
+...and principles of the ir system <b>applied</b> to its operation the history of the establishment of the acm repository at ...
+
+Document:- 1696 Snippet - 
+...states of a <b>stochastic</b> matrix an algorithm for identifying the ergodic subchains and transient states of a <b>stochastic</b> matrix is ...
+
+Document:- 2882 Snippet - 
+...architecture database performance and evaluation invented list threaded list cellular list information retrieval database organizations query complexity <b>stochastic</b> model monte ...
+
+Document:- 268 Snippet - 
+...of a static storage allocation cacm october 1961 cohen l j ca611013 jb march 16 1978 12 48 pm 268 ...
+
+
+Query :- performance evaluation and modelling of computer systems
+
+Document:- 2812 Snippet - 
+...<b>computer</b> programs specifically designed to aid in the process of applications software design <b>computer</b> selection and <b>performance</b> <b>evaluation</b> there are ...
+
+Document:- 2318 Snippet - 
+...role of <b>computer</b> system models in <b>performance</b> <b>evaluation</b> models constitute a useful means of investigating <b>computer</b> system <b>performance</b> this paper ...
+
+Document:- 2951 Snippet - 
+...response time monitor <b>computer</b> networks time sharing <b>systems</b> comparative response time arpa network anlytic modeling simulation benchmark jobs system measurement ...
+
+Document:- 2268 Snippet - 
+...programs for integrating differential equations a study comparing the <b>performance</b> of several <b>computer</b> programs for integrating <b>systems</b> of ordinary differential ...
+
+Document:- 3070 Snippet - 
+...simulation models of <b>computer</b> <b>systems</b> this paper describes the structure and operation of a hybrid simulation model in which both ...
+
+
+Query :- concurrency control mechanisms in operating systems
+
+Document:- 3105 Snippet - 
+...<b>systems</b> by access <b>control</b> <b>mechanisms</b> this paper shows how to extend programming languages to provide controlled sharing the extension permits ...
+
+Document:- 2840 Snippet - 
+...in <b>operating</b> <b>systems</b> a model of protection <b>mechanisms</b> in computing <b>systems</b> is presented and its appropriateness is argued the safety ...
+
+Document:- 1750 Snippet - 
+...fuchel k heller s multiple computer <b>systems</b> extended core storage multiprogrammed <b>operating</b> <b>systems</b> multiprocessor <b>operating</b> <b>systems</b> <b>control</b> data corporation 6600 ...
+
+Document:- 2626 Snippet - 
+...<b>control</b> of information sharing in multics the design of <b>mechanisms</b> to <b>control</b> the sharing of information in the multics system ...
+
+Document:- 1677 Snippet - 
+...allocation storage organization storage <b>control</b> codewords data representation program representation data structures storage protection addressing <b>mechanisms</b> paging segmentation file handling ...
+
+
+Query :- memory management aspects of operating systems
+
+Document:- 2297 Snippet - 
+...oden p h shedler g s paging machines demand paging <b>operating</b> <b>systems</b> studies queuing analysis <b>memory</b> contention <b>memory</b> <b>management</b> 4 ...
+
+Document:- 1752 Snippet - 
+...oppenheimer g weizer n time sharing <b>operating</b> <b>systems</b> resource <b>management</b> task scheduling paging system simulation <b>memory</b> <b>management</b> virtual memories 4 ...
+
+Document:- 2358 Snippet - 
+...a clingen c t daley r c <b>operating</b> system multics virtual <b>memory</b> segmentation information sharing paging <b>memory</b> <b>management</b> <b>memory</b> hierarchy ...
+
+Document:- 1892 Snippet - 
+...d l page on demand demand paging time sharing multiprogramming markovian computer models scheduling strategies <b>operating</b> <b>systems</b> <b>memory</b> <b>management</b> 2 ...
+
+Document:- 3006 Snippet - 
+...g gupta r anomaly <b>memory</b> <b>management</b> program behavior stack algorithms virtual <b>memory</b> working set page fault frequency paging algorithms 4 ...
+
+
+Query :- any information on packet radio networks   of particular interest are  algorithms for packet routing  and for dealing with changes in  network topography   i am not interested in the hardware used in the  network
+
+Document:- 2949 Snippet - 
+...correctness proofs computer <b>networks</b> distributed control <b>network</b> topology <b>routing</b> problem in <b>networks</b> distributed operating system store and forward <b>packet</b> switching ...
+
+Document:- 3032 Snippet - 
+...switching reverse path forwarding is a practical algorithm for broadcast <b>routing</b> in store and forward <b>packet</b> switching computer <b>networks</b> the ...
+
+Document:- 2892 Snippet - 
+...l naylor w e opderbeck h arpanet computer communication <b>networks</b> interprocess communication measurement <b>packet</b> switching performance evaluation and efficiency resource ...
+
+Document:- 2890 Snippet - 
+...c e <b>routing</b> <b>algorithms</b> adaptive <b>routing</b> quadratic <b>routing</b> alternate <b>routing</b> store and forward <b>network</b> distributed <b>network</b> computer <b>network</b> message switching ...
+
+Document:- 1928 Snippet - 
+...simulation of activity in digital <b>networks</b> a technique for simulating the detailed logic <b>networks</b> of large and active digital systems ...
+
+
+Query :- number theoretic algorithms  especially involving prime number series   sieves  and chinese remainder theorem
+
+Document:- 3021 Snippet - 
+...adleman l digital signatures public key cryptosystems privacy authentication security factorization <b>prime</b> <b>number</b> electronic mail message passing electronic funds transfer ...
+
+Document:- 2927 Snippet - 
+...well cacm september 1977 mairson h g computational complexity sieve <b>prime</b> <b>number</b> generation <b>number</b> theory linked list preprocessing balancing 5 ...
+
+Document:- 1841 Snippet - 
+...generator using the treesort principle algorithm 356 a1 cacm october 1969 singleton r c <b>prime</b> numbers <b>number</b> theory sorting 3 ...
+
+Document:- 1840 Snippet - 
+...a1 cacm october 1969 singleton r c <b>prime</b> numbers factoring <b>number</b> theory 3 15 5 30 ca691006 jb february 15 ...
+
+Document:- 1539 Snippet - 
+...<b>prime</b> <b>number</b> generator 2 algorithm 35a1 algorithm 310a1 algorithm 311a1 cacm september 1967 chartres b a ca670907c jb march 23 ...
+
+
+Query :- articles on text formatting systems  including what you see is what you  get systems   examples  tnroff  scribe  bravo
+
+Document:- 2341 Snippet - 
+...printable output a variety of graphical problems <b>including</b> flowcharting bargraphs logic diagrams mathematical equation formation and <b>text</b> justification and preparation ...
+
+Document:- 1926 Snippet - 
+...cacm march 1969 berns g m <b>text</b> processing indexing printing documentation <b>text</b> editing <b>formatting</b> frequency dictionary right justification vocabulary 3 ...
+
+Document:- 2786 Snippet - 
+...and reverse half line motions the system interfaces directly with <b>text</b> <b>formatting</b> programs so mixtures of <b>text</b> and mathematics may ...
+
+Document:- 1112 Snippet - 
+...if the words match assuming one of these errors occurred during a test run on garbled <b>text</b> correct identifications were ...
+
+Document:- 1170 Snippet - 
+...recognition and learning logic was developed to infer word classes and rules of syntactic combination from experience with <b>text</b> which ...
+
+
+Query :- id like to find articles describing the use of singular value decomposition  in digital image processing   applications include finding approximations  to the original image and restoring images that are subject to noise  an  article on the subject is h  andrews and c  patterson outer product  expansions and their uses in digital image processing  american mathematical    andrews  h   patterson  c
+
+Document:- 2142 Snippet - 
+...<b>processing</b> efficient encoding <b>image</b> <b>processing</b> linear programming <b>mathematical</b> programming monte carlo techniques optimization picture compression picture description picture <b>processing</b> stereology ...
+
+Document:- 3047 Snippet - 
+...b <b>image</b> registration synthetic <b>images</b> surface models automatic hill shading <b>digital</b> terrain models <b>image</b> transformation <b>image</b> matching shaded <b>images</b> 3 ...
+
+Document:- 3013 Snippet - 
+...also briefly considered it turns out to be equivalent to one of the standard <b>digital</b> <b>approximations</b> to the gradient cacm ...
+
+Document:- 2065 Snippet - 
+...biomedical <b>image</b> <b>processing</b> on line <b>image</b> <b>processing</b> semiautomatic <b>image</b> <b>processing</b> data structure structure operators picture <b>processing</b> biomedical picture <b>processing</b> on ...
+
+Document:- 1686 Snippet - 
+...holography are reviewed the <b>mathematical</b> model and computational techniques of the authors <b>digital</b> holographic process are discussed and <b>applications</b> of ...
+
+
+Query :- id like to find articles describing graph algorithms that are based on  the eigenvalue decomposition or singular value decomposition of the  ajacency matrix for the graph   im especially interested in any heuristic  algorithms for graph coloring and graph isomorphism using this method
+
+Document:- 1145 Snippet - 
+...<b>graph</b> <b>isomorphism</b> tester incorporates a variety of processes that attempt to narrow down the search for an <b>isomorphism</b> or to ...
+
+Document:- 3018 Snippet - 
+...subgraphs a relationship between this edge clique cover problem and the <b>graph</b> <b>coloring</b> problem is established which allows <b>algorithms</b> for ...
+
+Document:- 3139 Snippet - 
+...the vertices of a <b>graph</b> this paper describes efficient new <b>heuristic</b> methods to color the vertices of a <b>graph</b> which ...
+
+Document:- 2289 Snippet - 
+...many <b>graph</b> problems for example the adjacency <b>matrix</b> of a <b>graph</b> is easily mapped onto an array each <b>matrix</b> element ...
+
+Document:- 2177 Snippet - 
+...a <b>graph</b> an efficient <b>method</b> is presented for finding blocks and cutnodes of an arbitrary undirected <b>graph</b> the <b>graph</b> may ...
+
+
+Query :- articles about the sensitivity of the eigenvalue decomposition of real  matrices  in particular  zero one matrices   im especially interested in  the separation of eigenspaces corresponding to distinct eigenvalues   articles on the subject   c  davis and w  kahn  the rotation of eigenvectors by a permutation    siam j  numerical analysis  vol  7  no  1 1970 g  stewart  error  bounds for approximate invariant subspaces of closed linear operators   siam j  numerical analysis   vol  8  no  4 1971     davis  c   kahn  w   stewart  g
+
+Document:- 2695 Snippet - 
+...by similarity transformations is an important computational tool in <b>numerical</b> <b>linear</b> algebra consider the class of sparse <b>matrices</b> which can ...
+
+Document:- 2697 Snippet - 
+...are discussed cacm january 1974 malcolm m a palmer j <b>numerical</b> <b>linear</b> algebra <b>linear</b> systems toeplitz <b>matrices</b> tridiagonal <b>matrices</b> 5 ...
+
+Document:- 2047 Snippet - 
+...which has neither drawback cacm june <b>1970</b> <b>stewart</b> g w <b>eigenvalues</b> <b>eigenvectors</b> qr method origin shifts symmetric tridiagonal matrix 5 ...
+
+Document:- 2554 Snippet - 
+...<b>matrices</b> with b positive definite if n is the order of the matrix and m the bandwidth the <b>matrices</b> a ...
+
+Document:- 1423 Snippet - 
+...of the concept of an inverse which applies to all <b>matrices</b> it also has many applications in <b>numerical</b> <b>analysis</b> but ...
+
+
+Query :- currently interested in isolation of root of polynomial there is an old  more recent material     heindel  l
+
+Document:- 2722 Snippet - 
+...insertion o log n deletion of the <b>root</b> o nk 1k deletion of a random node o log n and ...
+
+Document:- 1623 Snippet - 
+...than with the actual engineering problem although readers may be <b>interested</b> in the problem because it is stated in a ...
+
+Document:- 2749 Snippet - 
+...1975 babich a f grason j parnas d l simulation organization event simulation clock pulse simulation significant event simulation 8 ...
+
+Document:- 435 Snippet - 
+...area that the author is <b>interested</b> a method employing a decision matrix is presented for the handling of a standard ...
+
+Document:- 2808 Snippet - 
+...can be used for teaching purposes and there is much relevant and interesting historical <b>material</b> the acceleration methods developed for ...
+
+
+Query :- probabilistic algorithms especially those dealing with algebraic and  symbolic manipulation   some examples   rabiin  probabilistic algorithm on finite field  siam  waztch  probabilistic testing of polynomial identities  siam    rabin m
+
+Document:- 2932 Snippet - 
+...research are discussed cacm september 1977 <b>rabin</b> m o complexity of computations <b>algebraic</b> complexity in tractable problems <b>probabilistic</b> <b>algorithms</b> 5 ...
+
+Document:- 1474 Snippet - 
+...models for roundoff error and then to describe a series of experiments for <b>testing</b> the validity of these models it ...
+
+Document:- 2580 Snippet - 
+...g m artificial intelligence heuristic programming models of cognitive processes computer music computer composition music theory formal languages <b>probabilistic</b> grammars ...
+
+Document:- 2836 Snippet - 
+...tree in addition the correctness of the <b>algorithm</b> is established the method may be applied to problems involving <b>probabilistic</b> parsing ...
+
+Document:- 3175 Snippet - 
+...substitution ciphers using a relaxation <b>algorithm</b> substitution ciphers are codes in which each letter of the alphabet has one fixed ...
+
+
+Query :- fast algorithm for context free language recognition or parsing
+
+Document:- 1350 Snippet - 
+...<b>algorithm</b> for arbitrary <b>context</b> <b>free</b> languages is compared with two other <b>parsing</b> algorithms a selective top to bottom <b>algorithm</b> similar ...
+
+Document:- 2110 Snippet - 
+...<b>context</b> <b>free</b> <b>parsing</b> <b>algorithm</b> a <b>parsing</b> <b>algorithm</b> which seems to be the most efficient general <b>context</b> <b>free</b> <b>algorithm</b> known is ...
+
+Document:- 2061 Snippet - 
+...<b>context</b> parsers an <b>algorithm</b> is described which accepts an arbitrary <b>context</b> <b>free</b> grammar and constructs a bounded <b>context</b> parser for ...
+
+Document:- 1012 Snippet - 
+...every <b>context</b> <b>free</b> <b>language</b> can be analyzed by a directed production analyzer the kuno oettinger multiple path syntactic analyzer for ...
+
+Document:- 2739 Snippet - 
+...the computer analysis of natural <b>language</b> sentences have been based on augmented <b>context</b> <b>free</b> grammars a <b>context</b> <b>free</b> grammar which ...
+
+
+Query :- articles describing the relationship between data types and concurrency  e g  what is the type of a process  when is a synchronization attempt   between two processes type correct  in a message passing system is there  any notion of the types of messages  i e  any way to check that the sender  of the message and the receiver are both treating the bit stream as some  particular type
+
+Document:- 2265 Snippet - 
+...checking this paper attempts to isolate the <b>notion</b> of <b>type</b> checking and presents a partial solution to the <b>type</b> checking ...
+
+Document:- 2956 Snippet - 
+...<b>data</b> <b>types</b> in high level languages a number of issues are explored concerning the <b>notion</b> that a <b>data</b> <b>type</b> is ...
+
+Document:- 2632 Snippet - 
+...of a multiprocessor operating <b>system</b> this paper describes the design philosophy of hydra the kernel of an operating <b>system</b> for ...
+
+Document:- 3105 Snippet - 
+...cacm may 1978 jones a liskov b programming languages access control <b>data</b> <b>types</b> abstract <b>data</b> <b>types</b> <b>type</b> checking capabilities 4 ...
+
+Document:- 3031 Snippet - 
+...cacm december 1978 guttag j horowitz e musser d abstract <b>data</b> <b>type</b> correctness proof <b>data</b> <b>type</b> <b>data</b> structure specification 4 ...
+
+
+Query :- what is the type of a module  i dont want the entire literature on  abstract data types here  but im not sure how to phrase this to avoid it   im interested in questions about how one can check that a module matches  contexts in which it is used
+
+Document:- 3105 Snippet - 
+...cacm may 1978 jones a liskov b programming languages access control <b>data</b> <b>types</b> <b>abstract</b> <b>data</b> <b>types</b> <b>type</b> checking capabilities 4 ...
+
+Document:- 2931 Snippet - 
+...right abstractions to represent the necessary structures the experience of many independent workers with the method of <b>data</b> <b>types</b> as ...
+
+Document:- 3031 Snippet - 
+...cacm december 1978 guttag j horowitz e musser d <b>abstract</b> <b>data</b> <b>type</b> correctness proof <b>data</b> <b>type</b> <b>data</b> structure specification 4 ...
+
+Document:- 2470 Snippet - 
+...formal systems lambda calculus extensible languages <b>data</b> <b>types</b> modes axioms correctness formal language definition formal description <b>data</b> structures description languages ...
+
+Document:- 2939 Snippet - 
+...b snyder a atkinson r schaffert c programming languages <b>data</b> <b>types</b> <b>data</b> abstractions control abstractions programming methodology separate compilation 4 ...
+
+
+Query :- what does type compatibility mean in languages that allow programmer  defined types  you might want to restrict this to extensible languages  that allow definition of abstract data types or programmer supplied  definitions of operators like
+
+Document:- 2651 Snippet - 
+...of <b>data</b> <b>types</b> includes provision for <b>programmer</b> <b>defined</b> <b>data</b> <b>types</b> <b>data</b> <b>types</b> and generic routines <b>programmer</b> control over <b>type</b> conversion ...
+
+Document:- 2940 Snippet - 
+...<b>data</b> <b>types</b> in this paper the abstraction techniques are extended from simple <b>data</b> representation and function <b>definition</b> to the iteration ...
+
+Document:- 2931 Snippet - 
+...right abstractions to represent the necessary structures the experience of many independent workers with the method of <b>data</b> <b>types</b> as ...
+
+Document:- 2470 Snippet - 
+...systems lambda calculus <b>extensible</b> <b>languages</b> <b>data</b> <b>types</b> modes axioms correctness formal language <b>definition</b> formal description <b>data</b> structures description <b>languages</b> models ...
+
+Document:- 3105 Snippet - 
+...cacm may 1978 jones a liskov b programming <b>languages</b> access control <b>data</b> <b>types</b> <b>abstract</b> <b>data</b> <b>types</b> <b>type</b> checking capabilities 4 ...
+
+
+Query :- list all articles dealing with data types in the following languages   that are referenced frequently in papers on the above languages e g  catch  any languages with interesting type structures that i might have missed
+
+Document:- 2956 Snippet - 
+...<b>data</b> <b>types</b> in high level <b>languages</b> a number of issues are explored concerning the notion that a <b>data</b> <b>type</b> is ...
+
+Document:- 2265 Snippet - 
+...checking this paper attempts to isolate the notion of <b>type</b> checking and presents a partial solution to the <b>type</b> checking ...
+
+Document:- 2002 Snippet - 
+...potting <b>data</b> display syntax hardware independent software display device independent software plot elements self scaled plots user interaction tablet organization ...
+
+Document:- 2939 Snippet - 
+...b snyder a atkinson r schaffert c programming <b>languages</b> <b>data</b> <b>types</b> <b>data</b> abstractions control abstractions programming methodology separate compilation 4 ...
+
+Document:- 3105 Snippet - 
+...cacm may 1978 jones a liskov b programming <b>languages</b> access control <b>data</b> <b>types</b> abstract <b>data</b> <b>types</b> <b>type</b> checking capabilities 4 ...
+
+
+Query :- theory of distributed systems and databases   subtopics of special  interest include reliability and fault tolerance in distributed systems   atomicity  distributed transactions  synchronization algorithms    resource allocation lower bounds and models for asynchronous parallel  systems   also theory of communicating processes and protocols             p  box 2158 yale station  new haven  conn   06520
+
+Document:- 3128 Snippet - 
+...with eventcounts and sequencers <b>synchronization</b> of concurrent <b>processes</b> requires controlling the relative ordering of events in the <b>processes</b> a new ...
+
+Document:- 3148 Snippet - 
+...programming for <b>distributed</b> computing programming for <b>distributed</b> and other loosely coupled <b>systems</b> is a problem of growing <b>interest</b> this paper ...
+
+Document:- 1747 Snippet - 
+...criteria computer <b>systems</b> computer <b>systems</b> design input equipment input equipment design operating <b>systems</b> operating <b>systems</b> design multiprogramming multiprogrammed <b>systems</b> multiprogrammed ...
+
+Document:- 3082 Snippet - 
+...of synchrony the clocks can become cacm july 1978 lamport l <b>distributed</b> <b>systems</b> computer networks clock <b>synchronization</b> multiprocess <b>systems</b> 4 ...
+
+Document:- 3141 Snippet - 
+...n log n rather than on2 cacm may 1979 chang e roberts r decentralized <b>algorithms</b> <b>distributed</b> <b>systems</b> operating <b>systems</b> 4 ...
+
+
+Query :- computer performance evaluation techniques using pattern recognition  and clustering          la    70803
+
+Document:- 3070 Snippet - 
+...an equivalent simulation only model cacm september 1978 schwetman h <b>performance</b> <b>evaluation</b> simulation queueing network models central server model 4 ...
+
+Document:- 2318 Snippet - 
+...role of <b>computer</b> system models in <b>performance</b> <b>evaluation</b> models constitute a useful means of investigating <b>computer</b> system <b>performance</b> this paper ...
+
+Document:- 1653 Snippet - 
+...<b>evaluation</b> survey and appraisal the state of the art of system <b>performance</b> <b>evaluation</b> is reviewed and <b>evaluation</b> goals and problems ...
+
+Document:- 3091 Snippet - 
+...<b>performance</b> standards predicting program development time program estimation <b>techniques</b> program development equation value of programming experience programmer <b>evaluation</b> programmer scheduling ...
+
+Document:- 2894 Snippet - 
+...of <b>computer</b> <b>performance</b> instead of the more frequently used in ternal system measurement <b>techniques</b> the nbs network measurement system is ...
+
+
+Query :- analysis and perception of shape by humans and computers   shape  descriptions  shape recognition by computer   two dimensional shapes   measures of circularity   shape matching
+
+Document:- 2771 Snippet - 
+...april 1975 braid i c computational geometry <b>computer</b> aided design graphics machined components polyhedra <b>shape</b> synthesis three <b>dimensional</b> modeling 3 ...
+
+Document:- 3046 Snippet - 
+...generation of gamma random variables ii a rejection method is proposed for generating gamma variates with nonintegral <b>shape</b> parameter a ...
+
+Document:- 2569 Snippet - 
+...integral <b>shape</b> parameters when the <b>shape</b> parameter a is integral generating gamma random variables with a digital <b>computer</b> is straightforward ...
+
+Document:- 3098 Snippet - 
+...generation of gamma random variables a new method for generating random variables from the gamma distribution with nonintegral <b>shape</b> parameter ...
+
+Document:- 3052 Snippet - 
+...start vs warm start miss ratios in a two level <b>computer</b> storage hierarchy miss ratio measurements are often made from ...
+
+
+Query :- texture analysis by computer   digitized texture analysis   texture  synthesis  perception of texture
+
+Document:- 2829 Snippet - 
+...<b>texture</b> mapping and then added to the intensity obtained from the <b>texture</b> mapping several examples of images synthesized using these ...
+
+Document:- 2523 Snippet - 
+...correspond to differently textured regions is described <b>texture</b> edges in the picture are detected and solid regions surrounded by these ...
+
+Document:- 2751 Snippet - 
+...for <b>computer</b> generated pictures the quality of <b>computer</b> generated images of three dimensional scenes depends on the shading technique used ...
+
+Document:- 2325 Snippet - 
+...mathematics are discussed these are foundations finite precision number systems computational complexity <b>synthesis</b> and <b>analysis</b> of algorithms <b>analysis</b> of error ...
+
+Document:- 2771 Snippet - 
+...<b>synthesis</b> begins with primitive solids like a cube wedge or cylinder any solid can be moved scaled or rotated solids ...
+
+
+Query :- the use of operations research models to optimize information system  performance   this includes fine tuning decisions such as secondary index  selection  file reorganization  and distributed databases
+
+Document:- 2452 Snippet - 
+...organization file structures file management file organization <b>performance</b> file organization model file structure design <b>secondary</b> <b>index</b> organization simulation data base ...
+
+Document:- 2765 Snippet - 
+...base architecture inverted file organization data base <b>performance</b> and measurement <b>secondary</b> <b>index</b> organization <b>information</b> storage and retrieval query answering 3 ...
+
+Document:- 2816 Snippet - 
+...of <b>distributed</b> space disk files in most database organizations the cost of accessing the database will increase due to structural ...
+
+Document:- 1976 Snippet - 
+...<b>index</b> files inverted files <b>information</b> retrieval data management access method <b>secondary</b> keys storage with buckets rapid retrieval balanced filing scheme ...
+
+Document:- 2437 Snippet - 
+...transformation key to address transformation direct addressing randomizing random access scatter storage <b>information</b> retrieval hashing analysis randomization <b>performance</b> analysis 3 ...
+
+
+Query :- the application of fuzzy subset theory to clustering and information  retrieval problems   this includes performance evaluation and automatic  indexing considerations
+
+Document:- 1032 Snippet - 
+...in <b>information</b> <b>retrieval</b> systems <b>information</b> storage and <b>retrieval</b> systems are composed of three major components a identification of <b>information</b> and ...
+
+Document:- 2990 Snippet - 
+...<b>retrieval</b> using term accuracy the <b>performance</b> of <b>information</b> <b>retrieval</b> systems can be evaluated in a number of different ways much ...
+
+Document:- 2711 Snippet - 
+...cacm november 1975 salton g wong a yang c s <b>automatic</b> <b>information</b> <b>retrieval</b> <b>automatic</b> <b>indexing</b> content analysis document space 3 ...
+
+Document:- 2451 Snippet - 
+...september 1973 casey r g tree file <b>information</b> storage and <b>retrieval</b> <b>clustering</b> search data structure data management query answering 3 ...
+
+Document:- 2631 Snippet - 
+...m f snell m j text searching <b>information</b> <b>theory</b> file organization direct access <b>information</b> <b>retrieval</b> character string bit vector 3 ...
+
+
+Query :- the use of bayesian decision models to optimize information retrieval  system performance   this includes stopping rules to determine when a  user should cease scanning the output of a retrieval search
+
+Document:- 1699 Snippet - 
+...<b>retrieval</b> testing <b>information</b> <b>system</b> evaluation experimental document <b>retrieval</b> document <b>retrieval</b> document perusal man machine communication remote console communication teletypewriter communication ...
+
+Document:- 2979 Snippet - 
+...risk automatic forming and optimizing of heuristic <b>rules</b> automatic inductive and deductive inference making <b>models</b> of game learning poker gambling ...
+
+Document:- 2451 Snippet - 
+...of tree structures for efficient querying a standard <b>information</b> <b>retrieval</b> operation is to <b>determine</b> which records in a data collection ...
+
+Document:- 2970 Snippet - 
+...analysis this paper extends the use of the regenerative property of queueing systems in the analysis of simulation <b>output</b> in ...
+
+Document:- 1032 Snippet - 
+...<b>retrieval</b> systems <b>information</b> storage and <b>retrieval</b> systems are composed of three major components a identification of <b>information</b> and tagging it ...
+
+
+Query :- the use of computer science principles e g  data structures    numerical methods in generating optimization e g  linear programming  algorithms   this includes issues of the khachian russian  ellipsoidal  algorithm and complexity of such algorithms
+
+Document:- 2094 Snippet - 
+...problems are characterize d by properties which permit the application of special <b>algorithms</b> mainly based on the exchange <b>algorithms</b> of ...
+
+Document:- 2226 Snippet - 
+...zero one <b>linear</b> <b>programming</b> problem an error in gues paper is corrected the utility of one of the <b>algorithms</b> as ...
+
+Document:- 1433 Snippet - 
+...<b>programming</b> <b>algorithm</b> design a combinatorial problem as <b>linear</b> <b>programming</b> models grow bigger and bigger in size much actual <b>data</b> that ...
+
+Document:- 2665 Snippet - 
+...list <b>structures</b> using bounded workspace two new <b>algorithms</b> are presented for list structure copying using bounded workspace the first of ...
+
+Document:- 1171 Snippet - 
+...<b>algorithms</b> for <b>linear</b> <b>programming</b> a statistical comparison of the primal dual and the more commonly used primal simplex <b>algorithm</b> for ...
+
+
+Query :- the role of information retrieval in knowledge based systems  i e   expert systems
+
+Document:- 2390 Snippet - 
+...1972 pager d interactive system organization of scientific community readers writers commentators computer utility <b>information</b> <b>retrieval</b> trees data structures 1 ...
+
+Document:- 2990 Snippet - 
+...<b>retrieval</b> using term accuracy the performance of <b>information</b> <b>retrieval</b> <b>systems</b> can be evaluated in a number of different ways much ...
+
+Document:- 2795 Snippet - 
+...<b>information</b> <b>retrieval</b> and deduction capabilities of the memory model the model encompasses several diverse classes of linguistic <b>knowledge</b> which include ...
+
+Document:- 1032 Snippet - 
+...<b>retrieval</b> <b>systems</b> <b>information</b> storage and <b>retrieval</b> <b>systems</b> are composed of three major components a identification of <b>information</b> and tagging it ...
+
+Document:- 3012 Snippet - 
+...<b>information</b> storage and <b>retrieval</b> system in medical research this paper presents the results of a study of the use of ...
+
+
+Query :- parallel processors in information retrieval
+
+Document:- 1680 Snippet - 
+...employing a display unit to interleave tutoring with other computer operations such as simulation programming and <b>information</b> <b>retrieval</b> it is ...
+
+Document:- 1811 Snippet - 
+...the other <b>processors</b> communication between cooperating <b>processors</b> is by means of data in storage shared by all <b>processors</b> a program ...
+
+Document:- 2714 Snippet - 
+...<b>processors</b> working synchronously the paper presents an algorithm for merging a and b with the p <b>parallel</b> <b>processors</b> which requires ...
+
+Document:- 2967 Snippet - 
+...memory associative processor content addressable memory graphics <b>information</b> <b>retrieval</b> data structures software evaluation hardware evaluation <b>parallel</b> processing database management 3 ...
+
+Document:- 3075 Snippet - 
+...algorithms a <b>parallel</b> bucket sort algorithm is presented that requires time olog n and the use of n <b>processors</b> the ...
+
+
+Query :- parallel processors and paging algorithms
+
+Document:- 3075 Snippet - 
+...<b>algorithms</b> a <b>parallel</b> bucket sort algorithm is presented that requires time olog n and the use of n <b>processors</b> the ...
+
+Document:- 3156 Snippet - 
+...connected components on <b>parallel</b> computers we present a <b>parallel</b> algorithm which uses n2 <b>processors</b> to find the connected components of ...
+
+Document:- 2570 Snippet - 
+...schedules for <b>parallel</b> processing systems the problem of scheduling two or more <b>processors</b> to minimize the execution time of a ...
+
+Document:- 2723 Snippet - 
+...reclaims list storage the more complex cases involving several list <b>processors</b> and one or more garbage collection <b>processors</b> are also ...
+
+Document:- 2714 Snippet - 
+...<b>processors</b> working synchronously the paper presents an algorithm for merging a and b with the p <b>parallel</b> <b>processors</b> which requires ...
+
+
+Query :- modelling and simulation in agricultural ecosystems
+
+Document:- 2721 Snippet - 
+...mathematical modeling plankton population dynamics phytoplankton zooplankton river <b>ecosystems</b> ecological mechanisms environmental <b>simulation</b> modeling <b>ecosystems</b> pollution environmental impact environmental planning ...
+
+Document:- 1928 Snippet - 
+...ulrich e g <b>simulation</b> logical <b>simulation</b> digital <b>simulation</b> large systems <b>simulation</b> network structures scheduling queuing simultaneous activities parallel events 4 ...
+
+Document:- 1366 Snippet - 
+...users the second part is devoted to computer <b>simulation</b> and <b>simulation</b> languages the computational characteristics of <b>simulation</b> are discussed with ...
+
+Document:- 3048 Snippet - 
+...evaluation of highly concurrent computers by deterministic <b>simulation</b> <b>simulation</b> is presented as a practical technique for performance evaluation of alternative ...
+
+Document:- 1805 Snippet - 
+...of predicting it this paper presents the results of progress in developing an alternative to <b>simulation</b> a <b>simulation</b> tested iterative ...
+
+
+Query :- mathematical induction  group theory  integers modulo m   probability  binomial coefficients  binomial theorem  homomorphism   morphism  transitivity  relations  relation matrix          syracuse university  313 link hall  syracuse  n  13210
+
+Document:- 1186 Snippet - 
+...m elements may be solved by a recursion process analogous to that for computing <b>binomial</b> <b>coefficients</b> several specific problems are ...
+
+Document:- 2210 Snippet - 
+...principle of <b>mathematical</b> <b>induction</b> must be applied the <b>relation</b> between the version of the <b>induction</b> rule used and the form ...
+
+Document:- 2986 Snippet - 
+...sparse <b>relation</b> boolean <b>matrix</b> directed graph wirth weber precedence <b>relation</b> linear precedence function slr grammar t canonical precedence <b>relation</b> 4 ...
+
+Document:- 2229 Snippet - 
+...brucke r a series expansion series inversion root extraction <b>binomial</b> <b>theorem</b> newton iterations chebyshev series poisson series fourier series 3 ...
+
+Document:- 679 Snippet - 
+...improvements are a notation for integration and for the <b>binomial</b> <b>coefficients</b> in the area of logical control the chief new ...
+
+
+Query :- semantics of programming languages  including abstract specifications  of data types  denotational semantics  and proofs of correctness     hoare  a   dijkstra  e      university of massachusetts  amherst  ma 01003
+
+Document:- 2931 Snippet - 
+...1977 scott d s logic <b>programming</b> <b>languages</b> automata <b>denotational</b> <b>semantics</b> a calculus models computability partial functions approximation function spaces 1 ...
+
+Document:- 2940 Snippet - 
+...<b>data</b> <b>types</b> assertions control specialization <b>correctness</b> generators invariants iteration statements modular decomposition program <b>specifications</b> <b>programming</b> <b>languages</b> <b>programming</b> methodology <b>proofs</b> of ...
+
+Document:- 2732 Snippet - 
+...<b>languages</b> sequencing primitives program <b>semantics</b> <b>programming</b> language <b>semantics</b> nondeterminacy case construction repetition termination <b>correctness</b> proof derivation of programs <b>programming</b> methodology ...
+
+Document:- 2265 Snippet - 
+...h f type checking <b>types</b> lambda calculus models for <b>programming</b> <b>languages</b> syntax <b>semantics</b> compiler writing language implementation formal definition 4 ...
+
+Document:- 2470 Snippet - 
+...formal systems lambda calculus extensible <b>languages</b> <b>data</b> <b>types</b> modes axioms <b>correctness</b> formal language definition formal description <b>data</b> structures description <b>languages</b> ...
+
+
+Query :- anything dealing with star height of regular languages or regular  expressions or regular events
+
+Document:- 1665 Snippet - 
+...a subset of <b>regular</b> <b>expressions</b> the output of the system is a lexical processor which reads a string of characters ...
+
+Document:- 2112 Snippet - 
+...expression transduction expression context free <b>languages</b> translation recognizers parsing meta compilers pushdown transducer syntax directed compilers finite state automata 4 ...
+
+Document:- 2650 Snippet - 
+...error correction <b>regular</b> <b>languages</b> <b>regular</b> <b>events</b> finite state automata compiler error recovery spelling correction string best match problem correction corrector ...
+
+Document:- 2921 Snippet - 
+...<b>expressions</b> since these can be converted to fsms rrp grammars describe the syntax of programming <b>languages</b> more concisely and more ...
+
+Document:- 2051 Snippet - 
+...comparative linguists to determine the <b>regular</b> sound correspondences between genetically related <b>languages</b> the investigator must arrange data for input by ...
+
+
+Query :- articles relation the algebraic theory of semigroups and monoids  to the study of automata and regular languages
+
+Document:- 2931 Snippet - 
+...computability <b>theory</b> programming <b>languages</b> offer an obvious opportunity as their syntactic formalization is well advanced however the semantical <b>theory</b> can ...
+
+Document:- 1665 Snippet - 
+...processors using finite state techniques the practical application of the <b>theory</b> of finite state <b>automata</b> to automatically generate lexical processors ...
+
+Document:- 2921 Snippet - 
+...state machines <b>automata</b> <b>regular</b> expressions syntax diagrams lrk grammars parser construction parsing programming <b>languages</b> language generation formal definition compilers translators ...
+
+Document:- 2650 Snippet - 
+...error correction <b>regular</b> <b>languages</b> <b>regular</b> events finite state <b>automata</b> compiler error recovery spelling correction string best match problem correction corrector ...
+
+Document:- 2112 Snippet - 
+...expression transduction expression context free <b>languages</b> translation recognizers parsing meta compilers pushdown transducer syntax directed compilers finite state <b>automata</b> 4 ...
+
+
+Query :- abstracts of articles       j  backus  can programming be liberated from the von neumann style                 a functional style and its algebra of programs  cacm 21      re millo  r  lipton  a  perlis  letter to acm forum  cacm 22           1979  629 630    backus  j   de millo  r   lipton  r   perlis  a
+
+Document:- 3077 Snippet - 
+...j <b>functional</b> <b>programming</b> <b>algebra</b> of <b>programs</b> combining forms <b>functional</b> forms <b>programming</b> languages <b>von</b> <b>neumann</b> computers <b>von</b> <b>neumann</b> languages models of ...
+
+Document:- 3140 Snippet - 
+...design <b>cacm</b> may <b>1979</b> <b>de</b> <b>millo</b> r <b>lipton</b> r <b>perlis</b> a formal mathematics mathematical proofs program verification program specification 2 ...
+
+Document:- 1705 Snippet - 
+...vogelaere r input output transput input output procedures input echo quality output decompose integer decompose real <b>style</b> berkeley <b>style</b> procedures ...
+
+Document:- 2850 Snippet - 
+...for program testing and debugging is also described it interpretively executes <b>programs</b> written in a simple pli <b>style</b> <b>programming</b> language ...
+
+Document:- 2700 Snippet - 
+...a method of proving properties of parallel <b>programs</b> when proving that a parallel program has a given property it is ...
+
+
+Query :- algorithms or statistical packages for anova  regression using least  squares or generalized linear models   system design  capabilities   statistical formula are of interest   students t test  wilcoxon and  sign tests  multivariate and univariate components can be included
+
+Document:- 2634 Snippet - 
+...w d <b>statistical</b> computation <b>statistical</b> software descriptive statistics bivariate tables pearson correlation <b>regression</b> factor analysis one way analysis of variance ...
+
+Document:- 1709 Snippet - 
+...1968 breaux h j multiple <b>linear</b> <b>regression</b> <b>statistical</b> recurrence formulas correlation <b>linear</b> <b>statistical</b> <b>models</b> <b>statistical</b> computer programs curve fitting 4 ...
+
+Document:- 1474 Snippet - 
+...it is concluded that the <b>models</b> are in general very good discrepancies are both rare and mild the <b>test</b> techniques ...
+
+Document:- 1344 Snippet - 
+...computations based upon algebraically specified <b>models</b> based upon a machine readable <b>statistical</b> model and related symbolic specifications an efficient method ...
+
+Document:- 3166 Snippet - 
+...two of the <b>algorithms</b> are well known in the <b>statistical</b> and computational literature the other two are new <b>algorithms</b> specifically ...
+
+
+Query :- dictionary construction and accessing methods for fast retrieval  of words or lexical items or morphologically related information   hashing or indexing methods are usually applied to english spelling or  natural language problems
+
+Document:- 1456 Snippet - 
+...is described the <b>dictionary</b> associates with each <b>english</b> word the syntactic <b>information</b> definitional material and references to the contexts in ...
+
+Document:- 1700 Snippet - 
+...for <b>natural</b> <b>language</b> searching the peekaboo idea from punched card <b>information</b> <b>retrieval</b> <b>methods</b> has been mated with the idea of ...
+
+Document:- 1235 Snippet - 
+...a corpus are identified through the use of a small <b>dictionary</b> of function <b>words</b> and frequently occurring <b>lexical</b> <b>words</b> some ...
+
+Document:- 3087 Snippet - 
+...d question answering relational database <b>natural</b> <b>language</b> database front end artificial intelligence dialogue query generation <b>information</b> <b>retrieval</b> <b>natural</b> <b>language</b> programming ...
+
+Document:- 144 Snippet - 
+...between simple terminal equipments since <b>english</b> <b>words</b> form only a sparse set of all possible alphabetic combinations present <b>methods</b> are ...
+
+
+Query :- hardware and software relating to database management systems   database packages  back end computers  special associative hardware  with microcomputers attached to disk heads or things like rap    relational or network codasyl or hierarchical models  systems  like system r  ims  adabas  total  etc
+
+Document:- 3087 Snippet - 
+...d question answering <b>relational</b> <b>database</b> natural language <b>database</b> front <b>end</b> artificial intelligence dialogue query generation information retrieval natural language programming ...
+
+Document:- 3112 Snippet - 
+...time compacting garbage collection list processing virtual memory file or <b>database</b> <b>management</b> storage <b>management</b> storage allocation lisp cdr coding reference ...
+
+Document:- 3049 Snippet - 
+...modified batch environment graphical <b>system</b> sembegs sembegs is a complete batch environment graphical <b>system</b> containing components for handling graphical data ...
+
+Document:- 2812 Snippet - 
+...logical <b>system</b> design problem statement language problem statement analyzer physical <b>system</b> design accurately defined <b>systems</b> <b>systems</b> optimization and design algorithm ...
+
+Document:- 3026 Snippet - 
+...m hartley p 1100 computer series computer architecture multiprocessing languages data <b>management</b> <b>systems</b> <b>end</b> user facilities executive control <b>software</b> 1 ...
+
+
+Query :- information retrieval articles by gerard salton or others about clustering   bibliographic coupling  use of citations or co citations  the vector  space model  boolean search methods using inverted files  feedback  etc     salton  g
+
+Document:- 2711 Snippet - 
+...of the object <b>space</b> in particular <b>retrieval</b> performance may correlate inversely with <b>space</b> density an approach based on <b>space</b> density ...
+
+Document:- 2307 Snippet - 
+...<b>salton</b> g automatic indexing automatic <b>search</b> and <b>retrieval</b> iterative searching mechanized library processing collection growth collection retirement <b>feedback</b> <b>search</b> 3 ...
+
+Document:- 1236 Snippet - 
+...are available to analyze documents and <b>search</b> requests this feature is used in the <b>retrieval</b> process by leaving the exact ...
+
+Document:- 2990 Snippet - 
+...<b>retrieval</b> using term accuracy the performance of <b>information</b> <b>retrieval</b> systems can be evaluated in a number of different ways much ...
+
+Document:- 1457 Snippet - 
+...manipulation and programming problems in automatic <b>information</b> <b>retrieval</b> automatic <b>information</b> <b>retrieval</b> programs require the manipulation of a variety of different ...
+
+
+Query :- results relating parallel complexity theory both for prams and  uniform circuits
+
+Document:- 320 Snippet - 
+...logic tables are an excellent way of developing and expressing the logic required in procedures operations systems and <b>circuits</b> a ...
+
+Document:- 2289 Snippet - 
+...graph <b>theory</b> cellular logic in memory arrays <b>parallel</b> processing special purpose computers algorithms for distance and spanning tree problems 5 ...
+
+Document:- 3156 Snippet - 
+...connected components on <b>parallel</b> computers we present a <b>parallel</b> algorithm which uses n2 processors to find the connected components of ...
+
+Document:- 1603 Snippet - 
+...timing buffering and task scheduling and provides <b>parallel</b> processing capability user programs communicate with the monitor through a small set ...
+
+Document:- 2401 Snippet - 
+...elements the <b>parallel</b> nature of the process and the possibility of shrinking any pattern regardless of the <b>complexity</b> of its ...
+
+
+Query :- algorithms for parallel computation  and especially comparisons  between parallel and sequential algorithms
+
+Document:- 2289 Snippet - 
+...arrays for the solution of graph problems is the determination of <b>algorithms</b> that exploit the possibilities for parallelism <b>especially</b> for ...
+
+Document:- 3075 Snippet - 
+...sorting <b>algorithms</b> a <b>parallel</b> bucket sort algorithm is presented that requires time olog n and the use of n processors ...
+
+Document:- 2266 Snippet - 
+...all zeros of a polynomial with only real zeros the algorithm which is conceptually suitable for <b>parallel</b> <b>computation</b> determines its ...
+
+Document:- 2114 Snippet - 
+...inverted file index <b>sequential</b> file multilist file description file search directory search serial processing of lists prime keyword <b>parallel</b> processing ...
+
+Document:- 2973 Snippet - 
+...kung h t <b>parallel</b> computer <b>parallel</b> sorting <b>parallel</b> merge routing and comparison steps perfect shuffle processor in terconnection pattern 4 ...
+
+
+Query :- list all articles on el1 and ecl el1 may be given as el1 i dont  remember how they did it
+
+Document:- 2651 Snippet - 
+...of data types in <b>el1</b> in constructing a general purpose programming language a key issue is providing a sufficient set ...
+
+Document:- 595 Snippet - 
+...cobol the teaching of cobol can be divided into three main subject areas they are the syntax of cobol the ...
+
+Document:- 2177 Snippet - 
+...cutnodes of an arbitrary undirected graph the graph may be represented either i as an ordered <b>list</b> of edges or ...
+
+Document:- 1878 Snippet - 
+...variables may then be identified and collected the <b>list</b> creating function <b>list</b> of slip may be amended to mark those ...
+
+Document:- 2232 Snippet - 
+...width at a given angle that the pattern feature width as a function of angle possesses several possible interpretations is ...
+

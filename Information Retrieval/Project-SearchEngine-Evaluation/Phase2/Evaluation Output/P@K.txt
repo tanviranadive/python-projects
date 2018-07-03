@@ -1,0 +1,742 @@
+P@K forBM25ExpandedQueryStats.txt
+QueryId: 1
+P@5  : 0.4   P@20  : 0.15
+QueryId: 2
+P@5  : 0.6   P@20  : 0.15
+QueryId: 3
+P@5  : 0.0   P@20  : 0.0
+QueryId: 4
+P@5  : 0.2   P@20  : 0.1
+QueryId: 5
+P@5  : 0.4   P@20  : 0.2
+QueryId: 6
+P@5  : 0.4   P@20  : 0.1
+QueryId: 7
+P@5  : 1.0   P@20  : 0.45
+QueryId: 8
+P@5  : 0.4   P@20  : 0.15
+QueryId: 9
+P@5  : 0.0   P@20  : 0.3
+QueryId: 10
+P@5  : 0.8   P@20  : 0.55
+QueryId: 11
+P@5  : 0.6   P@20  : 0.35
+QueryId: 12
+P@5  : 0.4   P@20  : 0.1
+QueryId: 13
+P@5  : 0.4   P@20  : 0.25
+QueryId: 14
+P@5  : 0.4   P@20  : 0.55
+QueryId: 15
+P@5  : 0.4   P@20  : 0.1
+QueryId: 16
+P@5  : 0.4   P@20  : 0.25
+QueryId: 17
+P@5  : 0.6   P@20  : 0.15
+QueryId: 18
+P@5  : 0.4   P@20  : 0.25
+QueryId: 19
+P@5  : 0.6   P@20  : 0.35
+QueryId: 20
+P@5  : 0.6   P@20  : 0.15
+QueryId: 21
+P@5  : 0.6   P@20  : 0.2
+QueryId: 22
+P@5  : 0.6   P@20  : 0.65
+QueryId: 23
+P@5  : 0.6   P@20  : 0.2
+QueryId: 24
+P@5  : 0.4   P@20  : 0.15
+QueryId: 25
+P@5  : 0.4   P@20  : 0.5
+QueryId: 26
+P@5  : 0.0   P@20  : 0.2
+QueryId: 27
+P@5  : 0.4   P@20  : 0.25
+QueryId: 28
+P@5  : 0.8   P@20  : 0.2
+QueryId: 29
+P@5  : 0.6   P@20  : 0.5
+QueryId: 30
+P@5  : 0.4   P@20  : 0.15
+QueryId: 31
+P@5  : 0.2   P@20  : 0.1
+QueryId: 32
+P@5  : 0.4   P@20  : 0.1
+QueryId: 33
+P@5  : 0.0   P@20  : 0.05
+QueryId: 36
+P@5  : 0.2   P@20  : 0.55
+QueryId: 37
+P@5  : 0.4   P@20  : 0.2
+QueryId: 38
+P@5  : 0.4   P@20  : 0.4
+QueryId: 39
+P@5  : 0.6   P@20  : 0.3
+QueryId: 40
+P@5  : 0.6   P@20  : 0.3
+QueryId: 42
+P@5  : 0.6   P@20  : 0.45
+QueryId: 43
+P@5  : 0.2   P@20  : 0.45
+QueryId: 44
+P@5  : 0.8   P@20  : 0.35
+QueryId: 45
+P@5  : 0.6   P@20  : 0.4
+QueryId: 48
+P@5  : 0.2   P@20  : 0.15
+QueryId: 49
+P@5  : 0.4   P@20  : 0.2
+QueryId: 57
+P@5  : 0.2   P@20  : 0.05
+QueryId: 58
+P@5  : 0.6   P@20  : 0.45
+QueryId: 59
+P@5  : 0.8   P@20  : 0.35
+QueryId: 60
+P@5  : 1.0   P@20  : 0.45
+QueryId: 61
+P@5  : 0.8   P@20  : 0.45
+QueryId: 62
+P@5  : 0.4   P@20  : 0.1
+QueryId: 63
+P@5  : 0.8   P@20  : 0.45
+QueryId: 64
+P@5  : 0.2   P@20  : 0.05
+
+P@K forBM25Stats.txt
+QueryId: 1
+P@5  : 0.4   P@20  : 0.15
+QueryId: 2
+P@5  : 0.6   P@20  : 0.15
+QueryId: 3
+P@5  : 0.0   P@20  : 0.15
+QueryId: 4
+P@5  : 0.2   P@20  : 0.1
+QueryId: 5
+P@5  : 0.4   P@20  : 0.2
+QueryId: 6
+P@5  : 0.4   P@20  : 0.1
+QueryId: 7
+P@5  : 1.0   P@20  : 0.45
+QueryId: 8
+P@5  : 0.4   P@20  : 0.1
+QueryId: 9
+P@5  : 0.2   P@20  : 0.35
+QueryId: 10
+P@5  : 0.6   P@20  : 0.7
+QueryId: 11
+P@5  : 0.6   P@20  : 0.3
+QueryId: 12
+P@5  : 0.4   P@20  : 0.1
+QueryId: 13
+P@5  : 0.4   P@20  : 0.3
+QueryId: 14
+P@5  : 0.8   P@20  : 0.6
+QueryId: 15
+P@5  : 0.2   P@20  : 0.1
+QueryId: 16
+P@5  : 0.4   P@20  : 0.15
+QueryId: 17
+P@5  : 0.4   P@20  : 0.2
+QueryId: 18
+P@5  : 0.4   P@20  : 0.2
+QueryId: 19
+P@5  : 0.6   P@20  : 0.35
+QueryId: 20
+P@5  : 0.6   P@20  : 0.15
+QueryId: 21
+P@5  : 0.4   P@20  : 0.15
+QueryId: 22
+P@5  : 0.6   P@20  : 0.65
+QueryId: 23
+P@5  : 0.6   P@20  : 0.15
+QueryId: 24
+P@5  : 0.4   P@20  : 0.15
+QueryId: 25
+P@5  : 0.2   P@20  : 0.4
+QueryId: 26
+P@5  : 0.0   P@20  : 0.35
+QueryId: 27
+P@5  : 0.4   P@20  : 0.4
+QueryId: 28
+P@5  : 0.6   P@20  : 0.2
+QueryId: 29
+P@5  : 0.8   P@20  : 0.5
+QueryId: 30
+P@5  : 0.4   P@20  : 0.1
+QueryId: 31
+P@5  : 0.2   P@20  : 0.1
+QueryId: 32
+P@5  : 0.4   P@20  : 0.1
+QueryId: 33
+P@5  : 0.0   P@20  : 0.05
+QueryId: 36
+P@5  : 0.4   P@20  : 0.55
+QueryId: 37
+P@5  : 0.4   P@20  : 0.2
+QueryId: 38
+P@5  : 0.4   P@20  : 0.4
+QueryId: 39
+P@5  : 0.2   P@20  : 0.2
+QueryId: 40
+P@5  : 0.6   P@20  : 0.3
+QueryId: 42
+P@5  : 0.4   P@20  : 0.4
+QueryId: 43
+P@5  : 0.2   P@20  : 0.45
+QueryId: 44
+P@5  : 0.8   P@20  : 0.3
+QueryId: 45
+P@5  : 0.6   P@20  : 0.35
+QueryId: 48
+P@5  : 0.2   P@20  : 0.2
+QueryId: 49
+P@5  : 0.4   P@20  : 0.15
+QueryId: 57
+P@5  : 0.2   P@20  : 0.05
+QueryId: 58
+P@5  : 0.8   P@20  : 0.45
+QueryId: 59
+P@5  : 0.6   P@20  : 0.35
+QueryId: 60
+P@5  : 0.2   P@20  : 0.5
+QueryId: 61
+P@5  : 1.0   P@20  : 0.6
+QueryId: 62
+P@5  : 0.4   P@20  : 0.15
+QueryId: 63
+P@5  : 0.8   P@20  : 0.4
+QueryId: 64
+P@5  : 0.2   P@20  : 0.05
+
+P@K forLuceneStats.txt
+QueryId: 1
+P@5  : 0.2   P@20  : 0.1
+QueryId: 2
+P@5  : 0.6   P@20  : 0.15
+QueryId: 3
+P@5  : 0.0   P@20  : 0.0
+QueryId: 4
+P@5  : 0.2   P@20  : 0.1
+QueryId: 5
+P@5  : 0.2   P@20  : 0.15
+QueryId: 6
+P@5  : 0.2   P@20  : 0.1
+QueryId: 7
+P@5  : 0.8   P@20  : 0.4
+QueryId: 8
+P@5  : 0.4   P@20  : 0.1
+QueryId: 9
+P@5  : 0.2   P@20  : 0.2
+QueryId: 10
+P@5  : 0.8   P@20  : 0.55
+QueryId: 11
+P@5  : 0.6   P@20  : 0.3
+QueryId: 12
+P@5  : 0.4   P@20  : 0.2
+QueryId: 13
+P@5  : 0.6   P@20  : 0.2
+QueryId: 14
+P@5  : 0.4   P@20  : 0.2
+QueryId: 15
+P@5  : 0.0   P@20  : 0.15
+QueryId: 16
+P@5  : 0.2   P@20  : 0.2
+QueryId: 17
+P@5  : 0.4   P@20  : 0.2
+QueryId: 18
+P@5  : 0.0   P@20  : 0.15
+QueryId: 19
+P@5  : 0.8   P@20  : 0.35
+QueryId: 20
+P@5  : 0.6   P@20  : 0.15
+QueryId: 21
+P@5  : 0.2   P@20  : 0.2
+QueryId: 22
+P@5  : 0.6   P@20  : 0.5
+QueryId: 23
+P@5  : 0.6   P@20  : 0.15
+QueryId: 24
+P@5  : 0.4   P@20  : 0.1
+QueryId: 25
+P@5  : 1.0   P@20  : 0.35
+QueryId: 26
+P@5  : 0.4   P@20  : 0.3
+QueryId: 27
+P@5  : 0.6   P@20  : 0.35
+QueryId: 28
+P@5  : 0.6   P@20  : 0.2
+QueryId: 29
+P@5  : 0.6   P@20  : 0.5
+QueryId: 30
+P@5  : 0.2   P@20  : 0.05
+QueryId: 31
+P@5  : 0.2   P@20  : 0.1
+QueryId: 32
+P@5  : 0.2   P@20  : 0.1
+QueryId: 33
+P@5  : 0.0   P@20  : 0.05
+QueryId: 36
+P@5  : 0.4   P@20  : 0.5
+QueryId: 37
+P@5  : 0.4   P@20  : 0.15
+QueryId: 38
+P@5  : 0.2   P@20  : 0.05
+QueryId: 39
+P@5  : 0.2   P@20  : 0.2
+QueryId: 40
+P@5  : 0.4   P@20  : 0.15
+QueryId: 42
+P@5  : 0.0   P@20  : 0.15
+QueryId: 43
+P@5  : 0.2   P@20  : 0.3
+QueryId: 44
+P@5  : 0.4   P@20  : 0.15
+QueryId: 45
+P@5  : 0.8   P@20  : 0.3
+QueryId: 48
+P@5  : 0.2   P@20  : 0.1
+QueryId: 49
+P@5  : 0.2   P@20  : 0.1
+QueryId: 57
+P@5  : 0.2   P@20  : 0.05
+QueryId: 58
+P@5  : 0.4   P@20  : 0.25
+QueryId: 59
+P@5  : 0.4   P@20  : 0.45
+QueryId: 60
+P@5  : 0.2   P@20  : 0.15
+QueryId: 61
+P@5  : 1.0   P@20  : 0.55
+QueryId: 62
+P@5  : 0.0   P@20  : 0.0
+QueryId: 63
+P@5  : 0.8   P@20  : 0.35
+QueryId: 64
+P@5  : 0.2   P@20  : 0.05
+
+P@K forVSMStoppedStats.txt
+QueryId: 1
+P@5  : 0.0   P@20  : 0.05
+QueryId: 2
+P@5  : 0.4   P@20  : 0.15
+QueryId: 3
+P@5  : 0.0   P@20  : 0.0
+QueryId: 4
+P@5  : 0.2   P@20  : 0.05
+QueryId: 5
+P@5  : 0.2   P@20  : 0.1
+QueryId: 6
+P@5  : 0.2   P@20  : 0.15
+QueryId: 7
+P@5  : 0.4   P@20  : 0.1
+QueryId: 8
+P@5  : 0.0   P@20  : 0.05
+QueryId: 9
+P@5  : 0.2   P@20  : 0.1
+QueryId: 10
+P@5  : 0.8   P@20  : 0.5
+QueryId: 11
+P@5  : 0.8   P@20  : 0.4
+QueryId: 12
+P@5  : 0.4   P@20  : 0.1
+QueryId: 13
+P@5  : 0.2   P@20  : 0.15
+QueryId: 14
+P@5  : 0.2   P@20  : 0.05
+QueryId: 15
+P@5  : 0.2   P@20  : 0.15
+QueryId: 16
+P@5  : 0.0   P@20  : 0.0
+QueryId: 17
+P@5  : 0.2   P@20  : 0.05
+QueryId: 18
+P@5  : 0.2   P@20  : 0.1
+QueryId: 19
+P@5  : 0.6   P@20  : 0.25
+QueryId: 20
+P@5  : 0.4   P@20  : 0.1
+QueryId: 21
+P@5  : 0.6   P@20  : 0.15
+QueryId: 22
+P@5  : 0.8   P@20  : 0.6
+QueryId: 23
+P@5  : 0.4   P@20  : 0.2
+QueryId: 24
+P@5  : 0.4   P@20  : 0.15
+QueryId: 25
+P@5  : 0.4   P@20  : 0.4
+QueryId: 26
+P@5  : 0.0   P@20  : 0.0
+QueryId: 27
+P@5  : 0.4   P@20  : 0.35
+QueryId: 28
+P@5  : 0.8   P@20  : 0.2
+QueryId: 29
+P@5  : 0.0   P@20  : 0.15
+QueryId: 30
+P@5  : 0.2   P@20  : 0.05
+QueryId: 31
+P@5  : 0.2   P@20  : 0.1
+QueryId: 32
+P@5  : 0.2   P@20  : 0.05
+QueryId: 33
+P@5  : 0.2   P@20  : 0.05
+QueryId: 36
+P@5  : 0.2   P@20  : 0.2
+QueryId: 37
+P@5  : 0.4   P@20  : 0.1
+QueryId: 38
+P@5  : 0.6   P@20  : 0.35
+QueryId: 39
+P@5  : 0.4   P@20  : 0.15
+QueryId: 40
+P@5  : 0.2   P@20  : 0.2
+QueryId: 42
+P@5  : 0.0   P@20  : 0.3
+QueryId: 43
+P@5  : 0.4   P@20  : 0.35
+QueryId: 44
+P@5  : 0.4   P@20  : 0.15
+QueryId: 45
+P@5  : 0.2   P@20  : 0.2
+QueryId: 48
+P@5  : 0.0   P@20  : 0.0
+QueryId: 49
+P@5  : 0.0   P@20  : 0.15
+QueryId: 57
+P@5  : 0.2   P@20  : 0.05
+QueryId: 58
+P@5  : 0.8   P@20  : 0.35
+QueryId: 59
+P@5  : 0.4   P@20  : 0.3
+QueryId: 60
+P@5  : 0.4   P@20  : 0.25
+QueryId: 61
+P@5  : 1.0   P@20  : 0.5
+QueryId: 62
+P@5  : 0.0   P@20  : 0.15
+QueryId: 63
+P@5  : 0.8   P@20  : 0.35
+QueryId: 64
+P@5  : 0.2   P@20  : 0.05
+
+P@K forVSMStats.txt
+QueryId: 1
+P@5  : 0.0   P@20  : 0.05
+QueryId: 2
+P@5  : 0.2   P@20  : 0.1
+QueryId: 3
+P@5  : 0.0   P@20  : 0.0
+QueryId: 4
+P@5  : 0.0   P@20  : 0.0
+QueryId: 5
+P@5  : 0.2   P@20  : 0.05
+QueryId: 6
+P@5  : 0.0   P@20  : 0.05
+QueryId: 7
+P@5  : 0.4   P@20  : 0.1
+QueryId: 8
+P@5  : 0.0   P@20  : 0.05
+QueryId: 9
+P@5  : 0.2   P@20  : 0.05
+QueryId: 10
+P@5  : 0.8   P@20  : 0.5
+QueryId: 11
+P@5  : 1.0   P@20  : 0.4
+QueryId: 12
+P@5  : 0.4   P@20  : 0.1
+QueryId: 13
+P@5  : 0.2   P@20  : 0.15
+QueryId: 14
+P@5  : 0.2   P@20  : 0.05
+QueryId: 15
+P@5  : 0.2   P@20  : 0.05
+QueryId: 16
+P@5  : 0.0   P@20  : 0.05
+QueryId: 17
+P@5  : 0.0   P@20  : 0.05
+QueryId: 18
+P@5  : 0.2   P@20  : 0.05
+QueryId: 19
+P@5  : 0.6   P@20  : 0.25
+QueryId: 20
+P@5  : 0.4   P@20  : 0.1
+QueryId: 21
+P@5  : 0.6   P@20  : 0.15
+QueryId: 22
+P@5  : 0.6   P@20  : 0.6
+QueryId: 23
+P@5  : 0.4   P@20  : 0.2
+QueryId: 24
+P@5  : 0.4   P@20  : 0.15
+QueryId: 25
+P@5  : 0.4   P@20  : 0.4
+QueryId: 26
+P@5  : 0.0   P@20  : 0.0
+QueryId: 27
+P@5  : 0.6   P@20  : 0.3
+QueryId: 28
+P@5  : 0.6   P@20  : 0.2
+QueryId: 29
+P@5  : 0.0   P@20  : 0.1
+QueryId: 30
+P@5  : 0.2   P@20  : 0.05
+QueryId: 31
+P@5  : 0.2   P@20  : 0.1
+QueryId: 32
+P@5  : 0.2   P@20  : 0.1
+QueryId: 33
+P@5  : 0.2   P@20  : 0.05
+QueryId: 36
+P@5  : 0.2   P@20  : 0.2
+QueryId: 37
+P@5  : 0.2   P@20  : 0.05
+QueryId: 38
+P@5  : 0.2   P@20  : 0.15
+QueryId: 39
+P@5  : 0.2   P@20  : 0.15
+QueryId: 40
+P@5  : 0.2   P@20  : 0.1
+QueryId: 42
+P@5  : 0.0   P@20  : 0.3
+QueryId: 43
+P@5  : 0.0   P@20  : 0.3
+QueryId: 44
+P@5  : 0.4   P@20  : 0.15
+QueryId: 45
+P@5  : 0.4   P@20  : 0.2
+QueryId: 48
+P@5  : 0.0   P@20  : 0.0
+QueryId: 49
+P@5  : 0.2   P@20  : 0.1
+QueryId: 57
+P@5  : 0.2   P@20  : 0.05
+QueryId: 58
+P@5  : 0.8   P@20  : 0.35
+QueryId: 59
+P@5  : 0.6   P@20  : 0.3
+QueryId: 60
+P@5  : 0.2   P@20  : 0.2
+QueryId: 61
+P@5  : 0.8   P@20  : 0.4
+QueryId: 62
+P@5  : 0.0   P@20  : 0.15
+QueryId: 63
+P@5  : 0.8   P@20  : 0.3
+QueryId: 64
+P@5  : 0.2   P@20  : 0.05
+
+P@K forBM25StoppedStats.txt
+QueryId: 1
+P@5  : 0.4   P@20  : 0.15
+QueryId: 2
+P@5  : 0.6   P@20  : 0.15
+QueryId: 3
+P@5  : 0.2   P@20  : 0.05
+QueryId: 4
+P@5  : 0.4   P@20  : 0.2
+QueryId: 5
+P@5  : 0.4   P@20  : 0.15
+QueryId: 6
+P@5  : 0.4   P@20  : 0.1
+QueryId: 7
+P@5  : 0.8   P@20  : 0.55
+QueryId: 8
+P@5  : 0.4   P@20  : 0.15
+QueryId: 9
+P@5  : 0.4   P@20  : 0.35
+QueryId: 10
+P@5  : 0.8   P@20  : 0.7
+QueryId: 11
+P@5  : 0.6   P@20  : 0.35
+QueryId: 12
+P@5  : 0.4   P@20  : 0.1
+QueryId: 13
+P@5  : 0.4   P@20  : 0.3
+QueryId: 14
+P@5  : 0.8   P@20  : 0.75
+QueryId: 15
+P@5  : 0.2   P@20  : 0.1
+QueryId: 16
+P@5  : 0.0   P@20  : 0.2
+QueryId: 17
+P@5  : 0.4   P@20  : 0.2
+QueryId: 18
+P@5  : 0.4   P@20  : 0.2
+QueryId: 19
+P@5  : 0.8   P@20  : 0.35
+QueryId: 20
+P@5  : 0.6   P@20  : 0.15
+QueryId: 21
+P@5  : 0.4   P@20  : 0.2
+QueryId: 22
+P@5  : 0.6   P@20  : 0.65
+QueryId: 23
+P@5  : 0.6   P@20  : 0.2
+QueryId: 24
+P@5  : 0.2   P@20  : 0.15
+QueryId: 25
+P@5  : 0.2   P@20  : 0.35
+QueryId: 26
+P@5  : 0.2   P@20  : 0.25
+QueryId: 27
+P@5  : 0.4   P@20  : 0.4
+QueryId: 28
+P@5  : 0.8   P@20  : 0.2
+QueryId: 29
+P@5  : 0.6   P@20  : 0.5
+QueryId: 30
+P@5  : 0.4   P@20  : 0.15
+QueryId: 31
+P@5  : 0.2   P@20  : 0.1
+QueryId: 32
+P@5  : 0.4   P@20  : 0.1
+QueryId: 33
+P@5  : 0.0   P@20  : 0.05
+QueryId: 36
+P@5  : 0.4   P@20  : 0.55
+QueryId: 37
+P@5  : 0.4   P@20  : 0.3
+QueryId: 38
+P@5  : 0.8   P@20  : 0.45
+QueryId: 39
+P@5  : 0.4   P@20  : 0.35
+QueryId: 40
+P@5  : 0.8   P@20  : 0.3
+QueryId: 42
+P@5  : 0.4   P@20  : 0.4
+QueryId: 43
+P@5  : 0.4   P@20  : 0.5
+QueryId: 44
+P@5  : 0.6   P@20  : 0.3
+QueryId: 45
+P@5  : 0.6   P@20  : 0.3
+QueryId: 48
+P@5  : 0.0   P@20  : 0.3
+QueryId: 49
+P@5  : 0.4   P@20  : 0.2
+QueryId: 57
+P@5  : 0.2   P@20  : 0.05
+QueryId: 58
+P@5  : 0.6   P@20  : 0.45
+QueryId: 59
+P@5  : 0.4   P@20  : 0.5
+QueryId: 60
+P@5  : 0.4   P@20  : 0.6
+QueryId: 61
+P@5  : 1.0   P@20  : 0.55
+QueryId: 62
+P@5  : 0.4   P@20  : 0.25
+QueryId: 63
+P@5  : 0.8   P@20  : 0.4
+QueryId: 64
+P@5  : 0.2   P@20  : 0.05
+
+P@K forTFIDFStats.txt
+QueryId: 1
+P@5  : 0.0   P@20  : 0.05
+QueryId: 2
+P@5  : 0.2   P@20  : 0.05
+QueryId: 3
+P@5  : 0.0   P@20  : 0.0
+QueryId: 4
+P@5  : 0.0   P@20  : 0.0
+QueryId: 5
+P@5  : 0.2   P@20  : 0.1
+QueryId: 6
+P@5  : 0.0   P@20  : 0.0
+QueryId: 7
+P@5  : 0.4   P@20  : 0.1
+QueryId: 8
+P@5  : 0.0   P@20  : 0.05
+QueryId: 9
+P@5  : 0.2   P@20  : 0.15
+QueryId: 10
+P@5  : 0.6   P@20  : 0.45
+QueryId: 11
+P@5  : 0.8   P@20  : 0.35
+QueryId: 12
+P@5  : 0.4   P@20  : 0.1
+QueryId: 13
+P@5  : 0.6   P@20  : 0.15
+QueryId: 14
+P@5  : 0.2   P@20  : 0.05
+QueryId: 15
+P@5  : 0.0   P@20  : 0.05
+QueryId: 16
+P@5  : 0.2   P@20  : 0.05
+QueryId: 17
+P@5  : 0.0   P@20  : 0.05
+QueryId: 18
+P@5  : 0.0   P@20  : 0.15
+QueryId: 19
+P@5  : 0.6   P@20  : 0.25
+QueryId: 20
+P@5  : 0.2   P@20  : 0.1
+QueryId: 21
+P@5  : 0.2   P@20  : 0.15
+QueryId: 22
+P@5  : 1.0   P@20  : 0.55
+QueryId: 23
+P@5  : 0.4   P@20  : 0.2
+QueryId: 24
+P@5  : 0.4   P@20  : 0.1
+QueryId: 25
+P@5  : 0.6   P@20  : 0.35
+QueryId: 26
+P@5  : 0.0   P@20  : 0.0
+QueryId: 27
+P@5  : 0.2   P@20  : 0.35
+QueryId: 28
+P@5  : 0.6   P@20  : 0.2
+QueryId: 29
+P@5  : 0.6   P@20  : 0.3
+QueryId: 30
+P@5  : 0.2   P@20  : 0.05
+QueryId: 31
+P@5  : 0.2   P@20  : 0.05
+QueryId: 32
+P@5  : 0.2   P@20  : 0.05
+QueryId: 33
+P@5  : 0.2   P@20  : 0.05
+QueryId: 36
+P@5  : 0.2   P@20  : 0.2
+QueryId: 37
+P@5  : 0.2   P@20  : 0.05
+QueryId: 38
+P@5  : 0.2   P@20  : 0.05
+QueryId: 39
+P@5  : 0.2   P@20  : 0.15
+QueryId: 40
+P@5  : 0.2   P@20  : 0.15
+QueryId: 42
+P@5  : 0.4   P@20  : 0.2
+QueryId: 43
+P@5  : 0.2   P@20  : 0.15
+QueryId: 44
+P@5  : 0.2   P@20  : 0.1
+QueryId: 45
+P@5  : 0.2   P@20  : 0.1
+QueryId: 48
+P@5  : 0.2   P@20  : 0.1
+QueryId: 49
+P@5  : 0.0   P@20  : 0.0
+QueryId: 57
+P@5  : 0.2   P@20  : 0.05
+QueryId: 58
+P@5  : 0.6   P@20  : 0.35
+QueryId: 59
+P@5  : 0.4   P@20  : 0.3
+QueryId: 60
+P@5  : 0.2   P@20  : 0.25
+QueryId: 61
+P@5  : 0.6   P@20  : 0.55
+QueryId: 62
+P@5  : 0.0   P@20  : 0.05
+QueryId: 63
+P@5  : 0.6   P@20  : 0.25
+QueryId: 64
+P@5  : 0.2   P@20  : 0.05
+

@@ -1,0 +1,263 @@
+ccollections
+OrderedDict
+p0
+((lp1
+(lp2
+I1
+aS'what articles exist which deal with tss time sharing system  an  operating system for ibm computers'
+p3
+aa(lp4
+I2
+aS'i am interested in articles written either by prieve or udo pooch    prieve  b   pooch  u'
+p5
+aa(lp6
+I3
+aS'intermediate languages used in construction of multi targeted compilers tcoll'
+p7
+aa(lp8
+I4
+aS'im interested in mechanisms for communicating between disjoint processes   possibly  but not exclusively  in a distributed environment   i would  rather see descriptions of complete mechanisms  with or without implementations   as opposed to theoretical work on the abstract problem   remote procedure  calls and message passing are examples of my interests'
+p9
+aa(lp10
+I5
+aS'id like papers on design and implementation of editing interfaces   window managers  command interpreters  etc   the essential issues are  human interface design  with views on improvements to user efficiency   effectiveness and satisfaction'
+p11
+aa(lp12
+I6
+aS'interested in articles on robotics  motion planning particularly the  geometric and combinatorial aspects   we are not interested in the  dynamics of arm motion'
+p13
+aa(lp14
+I7
+aS'i am interested in distributed algorithms   concurrent programs in  which processes communicate and synchronize by using message passing   areas of particular interest include fault tolerance and techniques  for understanding the correctness of these algorithms'
+p15
+aa(lp16
+I8
+aS'addressing schemes for resources in networks resource addressing in  network operating systems'
+p17
+aa(lp18
+I9
+aS'security considerations in local networks  network operating systems   and distributed systems'
+p19
+aa(lp20
+I10
+aS'parallel languages languages for parallel computation'
+p21
+aa(lp22
+I11
+aS'setl  very high level languages'
+p23
+aa(lp24
+I12
+aS'portable operating systems'
+p25
+aa(lp26
+I13
+aS'code optimization for space efficiency'
+p27
+aa(lp28
+I14
+aS'find all discussions of optimal implementations of sort algorithms for  database management applications'
+p29
+aa(lp30
+I15
+aS'find all discussions of horizontal microcode optimization with special  emphasis on optimization of loops and global optimization'
+p31
+aa(lp32
+I16
+aS'find all descriptions of file handling in operating systems based on  multiple processes and message passing'
+p33
+aa(lp34
+I17
+aS'optimization of intermediate and machine code'
+p35
+aa(lp36
+I18
+aS'languages and compilers for parallel processors  especially highly  horizontal microcoded machines code compaction'
+p37
+aa(lp38
+I19
+aS'parallel algorithms'
+p39
+aa(lp40
+I20
+aS'graph theoretic algorithms applicable to sparse matrices'
+p41
+aa(lp42
+I21
+aS'computational complexity  intractability  class complete reductions   algorithms and efficiency'
+p43
+aa(lp44
+I22
+aS'i am interested in hidden line and hidden surface algorithms for  cylinders  toroids  spheres  and cones   this is a rather specialized  topic in computer graphics'
+p45
+aa(lp46
+I23
+aS'distributed computing structures and algorithms'
+p47
+aa(lp48
+I24
+aS'applied stochastic processes'
+p49
+aa(lp50
+I25
+aS'performance evaluation and modelling of computer systems'
+p51
+aa(lp52
+I26
+aS'concurrency control mechanisms in operating systems'
+p53
+aa(lp54
+I27
+aS'memory management aspects of operating systems'
+p55
+aa(lp56
+I28
+aS'any information on packet radio networks   of particular interest are  algorithms for packet routing  and for dealing with changes in  network topography   i am not interested in the hardware used in the  network'
+p57
+aa(lp58
+I29
+aS'number theoretic algorithms  especially involving prime number series   sieves  and chinese remainder theorem'
+p59
+aa(lp60
+I30
+aS'articles on text formatting systems  including what you see is what you  get systems   examples  tnroff  scribe  bravo'
+p61
+aa(lp62
+I31
+aS'id like to find articles describing the use of singular value decomposition  in digital image processing   applications include finding approximations  to the original image and restoring images that are subject to noise  an  article on the subject is h  andrews and c  patterson outer product  expansions and their uses in digital image processing  american mathematical    andrews  h   patterson  c'
+p63
+aa(lp64
+I32
+aS'id like to find articles describing graph algorithms that are based on  the eigenvalue decomposition or singular value decomposition of the  ajacency matrix for the graph   im especially interested in any heuristic  algorithms for graph coloring and graph isomorphism using this method'
+p65
+aa(lp66
+I33
+aS'articles about the sensitivity of the eigenvalue decomposition of real  matrices  in particular  zero one matrices   im especially interested in  the separation of eigenspaces corresponding to distinct eigenvalues   articles on the subject   c  davis and w  kahn  the rotation of eigenvectors by a permutation    siam j  numerical analysis  vol  7  no  1 1970 g  stewart  error  bounds for approximate invariant subspaces of closed linear operators   siam j  numerical analysis   vol  8  no  4 1971     davis  c   kahn  w   stewart  g'
+p67
+aa(lp68
+I34
+aS'currently interested in isolation of root of polynomial there is an old  more recent material     heindel  l'
+p69
+aa(lp70
+I35
+aS'probabilistic algorithms especially those dealing with algebraic and  symbolic manipulation   some examples   rabiin  probabilistic algorithm on finite field  siam  waztch  probabilistic testing of polynomial identities  siam    rabin m'
+p71
+aa(lp72
+I36
+aS'fast algorithm for context free language recognition or parsing'
+p73
+aa(lp74
+I37
+aS'articles describing the relationship between data types and concurrency  e g  what is the type of a process  when is a synchronization attempt   between two processes type correct  in a message passing system is there  any notion of the types of messages  i e  any way to check that the sender  of the message and the receiver are both treating the bit stream as some  particular type'
+p75
+aa(lp76
+I38
+aS'what is the type of a module  i dont want the entire literature on  abstract data types here  but im not sure how to phrase this to avoid it   im interested in questions about how one can check that a module matches  contexts in which it is used'
+p77
+aa(lp78
+I39
+aS'what does type compatibility mean in languages that allow programmer  defined types  you might want to restrict this to extensible languages  that allow definition of abstract data types or programmer supplied  definitions of operators like'
+p79
+aa(lp80
+I40
+aS'list all articles dealing with data types in the following languages   that are referenced frequently in papers on the above languages e g  catch  any languages with interesting type structures that i might have missed'
+p81
+aa(lp82
+I41
+aS'theory of distributed systems and databases   subtopics of special  interest include reliability and fault tolerance in distributed systems   atomicity  distributed transactions  synchronization algorithms    resource allocation lower bounds and models for asynchronous parallel  systems   also theory of communicating processes and protocols             p  box 2158 yale station  new haven  conn   06520'
+p83
+aa(lp84
+I42
+aS'computer performance evaluation techniques using pattern recognition  and clustering          la    70803'
+p85
+aa(lp86
+I43
+aS'analysis and perception of shape by humans and computers   shape  descriptions  shape recognition by computer   two dimensional shapes   measures of circularity   shape matching'
+p87
+aa(lp88
+I44
+aS'texture analysis by computer   digitized texture analysis   texture  synthesis  perception of texture'
+p89
+aa(lp90
+I45
+aS'the use of operations research models to optimize information system  performance   this includes fine tuning decisions such as secondary index  selection  file reorganization  and distributed databases'
+p91
+aa(lp92
+I46
+aS'the application of fuzzy subset theory to clustering and information  retrieval problems   this includes performance evaluation and automatic  indexing considerations'
+p93
+aa(lp94
+I47
+aS'the use of bayesian decision models to optimize information retrieval  system performance   this includes stopping rules to determine when a  user should cease scanning the output of a retrieval search'
+p95
+aa(lp96
+I48
+aS'the use of computer science principles e g  data structures    numerical methods in generating optimization e g  linear programming  algorithms   this includes issues of the khachian russian  ellipsoidal  algorithm and complexity of such algorithms'
+p97
+aa(lp98
+I49
+aS'the role of information retrieval in knowledge based systems  i e   expert systems'
+p99
+aa(lp100
+I50
+aS'parallel processors in information retrieval'
+p101
+aa(lp102
+I51
+aS'parallel processors and paging algorithms'
+p103
+aa(lp104
+I52
+aS'modelling and simulation in agricultural ecosystems'
+p105
+aa(lp106
+I53
+aS'mathematical induction  group theory  integers modulo m   probability  binomial coefficients  binomial theorem  homomorphism   morphism  transitivity  relations  relation matrix          syracuse university  313 link hall  syracuse  n  13210'
+p107
+aa(lp108
+I54
+aS'semantics of programming languages  including abstract specifications  of data types  denotational semantics  and proofs of correctness     hoare  a   dijkstra  e      university of massachusetts  amherst  ma 01003'
+p109
+aa(lp110
+I55
+aS'anything dealing with star height of regular languages or regular  expressions or regular events'
+p111
+aa(lp112
+I56
+aS'articles relation the algebraic theory of semigroups and monoids  to the study of automata and regular languages'
+p113
+aa(lp114
+I57
+aS'abstracts of articles       j  backus  can programming be liberated from the von neumann style                 a functional style and its algebra of programs  cacm 21      re millo  r  lipton  a  perlis  letter to acm forum  cacm 22           1979  629 630    backus  j   de millo  r   lipton  r   perlis  a'
+p115
+aa(lp116
+I58
+aS'algorithms or statistical packages for anova  regression using least  squares or generalized linear models   system design  capabilities   statistical formula are of interest   students t test  wilcoxon and  sign tests  multivariate and univariate components can be included'
+p117
+aa(lp118
+I59
+aS'dictionary construction and accessing methods for fast retrieval  of words or lexical items or morphologically related information   hashing or indexing methods are usually applied to english spelling or  natural language problems'
+p119
+aa(lp120
+I60
+aS'hardware and software relating to database management systems   database packages  back end computers  special associative hardware  with microcomputers attached to disk heads or things like rap    relational or network codasyl or hierarchical models  systems  like system r  ims  adabas  total  etc'
+p121
+aa(lp122
+I61
+aS'information retrieval articles by gerard salton or others about clustering   bibliographic coupling  use of citations or co citations  the vector  space model  boolean search methods using inverted files  feedback  etc     salton  g'
+p123
+aa(lp124
+I62
+aS'results relating parallel complexity theory both for prams and  uniform circuits'
+p125
+aa(lp126
+I63
+aS'algorithms for parallel computation  and especially comparisons  between parallel and sequential algorithms'
+p127
+aa(lp128
+I64
+aS'list all articles on el1 and ecl el1 may be given as el1 i dont  remember how they did it'
+p129
+aatp130
+Rp131
+.
