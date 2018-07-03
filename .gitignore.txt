@@ -1,8 +1,0 @@
-cacm/
-cleaned_cacm/
-Tables/
-cacm
-cacm_stem.txt
-cacm_stem.query
-common_words
-queryIDDict.txt
